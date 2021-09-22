@@ -11,10 +11,10 @@
   url = "/post/"
 
   [[main]]
-  name = "About"
+  name = "Publications"
   weight = 300
-  identifier = "about"
-  url = "/about/"
+  identifier = "publications"
+  url = "/pub/"
 
   [[main]]
   name = "Contact"

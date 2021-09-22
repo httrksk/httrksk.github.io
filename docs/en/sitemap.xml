@@ -171,18 +171,8 @@
     <loc>https://httrksk.github.io/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://httrksk.github.io/about/</loc>
+    <loc>https://httrksk.github.io/pub/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/about/"
-                />
   </url><url>
     <loc>https://httrksk.github.io/imprint/</loc>
     <priority>0</priority>
