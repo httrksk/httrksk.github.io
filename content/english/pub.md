@@ -1,11 +1,11 @@
 +++
-title = "Publications"
+title = ""
 description = "My publications"
 date = "2021-09-22"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
-
+### Publications
 #### Published Papers (Refereed)
 
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.)
