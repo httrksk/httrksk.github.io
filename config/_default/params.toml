@@ -1,8 +1,10 @@
-
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Keisuke Hattori"
+author = "Keisuke Hattori"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = """
+Professor,
+School of Business,
+Aoyama Gakuin University, JAPAN
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
