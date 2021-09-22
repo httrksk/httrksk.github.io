@@ -376,21 +376,21 @@
       </div><p>In this first part of the series we&rsquo;ll show you how to create a series</p>
 <p>As a first step we need to add series as a taxonomy. We can do this by editing the <code>config.toml</code>.<br>
 Note: We always need to define the existing taxonomies as well.</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="p">[</span><span class="nx">taxonomies</span><span class="p">]</span>
-    <span class="nx">category</span> <span class="p">=</span> <span class="s2">&#34;categories&#34;</span>
-    <span class="nx">series</span> <span class="p">=</span> <span class="s2">&#34;series&#34;</span>
-    <span class="nx">tag</span> <span class="p">=</span> <span class="s2">&#34;tags&#34;</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[<span style="color:#a6e22e">taxonomies</span>]
+    <span style="color:#a6e22e">category</span> = <span style="color:#e6db74">&#34;categories&#34;</span>
+    <span style="color:#a6e22e">series</span> = <span style="color:#e6db74">&#34;series&#34;</span>
+    <span style="color:#a6e22e">tag</span> = <span style="color:#e6db74">&#34;tags&#34;</span>
 </code></pre></div><p>Now we have the series enabled, the next thing we need to do is add the series name in the FrontMatter.
 For our example we&rsquo;ll use this post and the next part.</p>
 <p>As you can see we&rsquo;ve set the series to <code>series-setup</code>. We also do the same in the next parts of the series.<br>
 This end results should be a Front Matter that looks similar to this:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-md" data-lang="md">---
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-md" data-lang="md">---
 author: Hugo Authors
 title: Series Part 1
 date: 2021-08-14
 description: A brief guide to how to setup series part 1
 series:
-  <span class="k">-</span> series-setup
+  <span style="color:#66d9ef">-</span> series-setup
 ---
 </code></pre></div><p>Each individual post will now also show the other posts in the series under the <code>Posts in this Series</code> heading.</p>
 

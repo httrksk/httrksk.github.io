@@ -8,6 +8,11 @@ enableRobotsTXT = true
 canonifyurls = true
 publishDir = "docs"
 
+[params]
+title = "Keisuke Hattori"
+author = "Keisuke Hattori"
+
+
 # Enable Disqus
 #disqusShortname = ""
 
