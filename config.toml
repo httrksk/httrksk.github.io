@@ -1,0 +1,6 @@
+baseURL = 'http://httrksk.github.io/'
+languageCode = 'ja-jp'
+title = 'Keisuke Hattori'
+theme = 'anatole'
+publishDir = "docs"
+canonifyurls = true
