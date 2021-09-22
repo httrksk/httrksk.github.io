@@ -4,9 +4,11 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-[ar]
+[jp]
 title = "服部 圭介"
-description = "أنا أعمل كمطورة ويب في شركة س"
-contentDir = "content/arabic" 
+description = """
+青山学院大学 経営学部 教授
+"""
+contentDir = "content/jp" 
 weight = 2
-LanguageName = "AR"
+LanguageName = "JP"

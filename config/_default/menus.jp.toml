@@ -1,23 +1,23 @@
   [[main]]
-  name = "الرئيسية"
+  name = "なに"
   identifier = "main"
   weight = 100
-  url = "/ar/"
+  url = "/jp/"
 
   [[main]]
-  name = "المنشورات"
+  name = "投稿"
   weight = 200
   identifier = "posts"
-  url = "/ar/post/"
+  url = "/jp/post/"
 
   [[main]]
-  name = "حول"
+  name = "自己紹介"
   weight = 300
   identifier = "about"
-  url = "/ar/about/"
+  url = "/jp/about/"
 
   [[main]]
-  name = "للتواصل"
+  name = "コンタクト"
   weight = 400
   identifier = "contact"
-  url = "/ar/contact/"
+  url = "/jp/contact/"
