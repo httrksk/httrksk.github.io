@@ -8,6 +8,17 @@
     <language>ja-jp</language>
     <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://httrksk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>https://httrksk.github.io/pub/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://httrksk.github.io/pub/</guid>
+      
+        <description>Published Papers (Refereed)   &amp;ldquo;Effective Leadership Selection in Complementary Teams&amp;rdquo;, Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020.</description>
+      
+    </item>
+    
+    <item>
       <title>Series Part 2</title>
       <link>https://httrksk.github.io/post/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
@@ -138,17 +149,6 @@
       <guid>https://httrksk.github.io/post/image-test/</guid>
       
         <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://httrksk.github.io/pub/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://httrksk.github.io/pub/</guid>
-      
-        <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
       
     </item>
     
