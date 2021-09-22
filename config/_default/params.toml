@@ -5,6 +5,7 @@ description = """
 Professor,
 School of Business,
 Aoyama Gakuin University, JAPAN
+"""
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
