@@ -41,3 +41,31 @@ author = "Hugo Authors"
 - Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005.
 
 - "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003.
+
+#### Published Papers (Others)
+
+- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. 
+
+- "Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), Osaka Keidai Ronshu, 60, 225-239, 2010.
+
+- "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
+
+- "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
+
+#### Working Papers
+
+- "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
+
+- "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).
+
+- "Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.
+
+- "Should non-genuine products be expelled from markets?", Kwansei Gakuin University Discussion Paper Series, No. 126, March 2015. (Co-authored with Keisaku Higashida.)
+
+- "How to Commit to a Future Price", Working Papers 131402, University of California-Irvine, Department of Economics. (Co-authored with Amihai Glazer.)
+
+- "When Government Misleads US: Sending Misinformation as Protectionist Devices", Kwansei Gakuin University Discussion Paper Series, No. 75, August 2011. [Link PDF] (Co-authored with Keisaku Higashida.)
+
+- "Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007. R&R
+
+- "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: http://www.ssrn.com/abstract=1009425
