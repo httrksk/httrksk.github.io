@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog</title>
-    <link>https://example.com/tags/</link>
+    <link>https://httrksk.github.io/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://httrksk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>redirect</title>
-      <link>https://example.com/tags/redirect/</link>
+      <link>https://httrksk.github.io/tags/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/redirect/</guid>
+      <guid>https://httrksk.github.io/tags/redirect/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>redirectUrl</title>
-      <link>https://example.com/tags/redirecturl/</link>
+      <link>https://httrksk.github.io/tags/redirecturl/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/redirecturl/</guid>
+      <guid>https://httrksk.github.io/tags/redirecturl/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>demo</title>
-      <link>https://example.com/tags/demo/</link>
+      <link>https://httrksk.github.io/tags/demo/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://example.com/tags/demo/</guid>
+      <guid>https://httrksk.github.io/tags/demo/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>shortcode</title>
-      <link>https://example.com/tags/shortcode/</link>
+      <link>https://httrksk.github.io/tags/shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://example.com/tags/shortcode/</guid>
+      <guid>https://httrksk.github.io/tags/shortcode/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://httrksk.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://httrksk.github.io/tags/css/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://httrksk.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://httrksk.github.io/tags/html/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://httrksk.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://httrksk.github.io/tags/markdown/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>privacy</title>
-      <link>https://example.com/tags/privacy/</link>
+      <link>https://httrksk.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/privacy/</guid>
+      <guid>https://httrksk.github.io/tags/privacy/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
+      <link>https://httrksk.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://httrksk.github.io/tags/shortcodes/</guid>
       
         <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>text</title>
-      <link>https://example.com/tags/text/</link>
+      <link>https://httrksk.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/text/</guid>
+      <guid>https://httrksk.github.io/tags/text/</guid>
       
         <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>emoji</title>
-      <link>https://example.com/tags/emoji/</link>
+      <link>https://httrksk.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/emoji/</guid>
+      <guid>https://httrksk.github.io/tags/emoji/</guid>
       
         <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>thumbnail</title>
-      <link>https://example.com/tags/thumbnail/</link>
+      <link>https://httrksk.github.io/tags/thumbnail/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/thumbnail/</guid>
+      <guid>https://httrksk.github.io/tags/thumbnail/</guid>
       
         <description></description>
       
@@ -141,10 +141,10 @@
     
     <item>
       <title>index</title>
-      <link>https://example.com/tags/index/</link>
+      <link>https://httrksk.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/index/</guid>
+      <guid>https://httrksk.github.io/tags/index/</guid>
       
         <description></description>
       

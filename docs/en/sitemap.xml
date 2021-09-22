@@ -2,201 +2,201 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://httrksk.github.io/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://httrksk.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://httrksk.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://httrksk.github.io/post/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/post/"
+                href="https://httrksk.github.io/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://httrksk.github.io/post/"
                 />
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://httrksk.github.io/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/series/"
+                href="https://httrksk.github.io/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://httrksk.github.io/series/"
                 />
   </url><url>
-    <loc>https://example.com/post/series-part-2/</loc>
+    <loc>https://httrksk.github.io/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/series-setup/</loc>
+    <loc>https://httrksk.github.io/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/series-part-1/</loc>
+    <loc>https://httrksk.github.io/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/redirect/</loc>
+    <loc>https://httrksk.github.io/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirect/</loc>
+    <loc>https://httrksk.github.io/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirecturl/</loc>
+    <loc>https://httrksk.github.io/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://httrksk.github.io/tags/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://httrksk.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://httrksk.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/demo/</loc>
+    <loc>https://httrksk.github.io/tags/demo/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcode/</loc>
+    <loc>https://httrksk.github.io/tags/shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/figure-shortcode/</loc>
+    <loc>https://httrksk.github.io/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://httrksk.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/archives/"
+                href="https://httrksk.github.io/ar/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/archives/"
+                href="https://httrksk.github.io/archives/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://httrksk.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://httrksk.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://httrksk.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://httrksk.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://httrksk.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://httrksk.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://httrksk.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://httrksk.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://httrksk.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://httrksk.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://httrksk.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://httrksk.github.io/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://httrksk.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://httrksk.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://httrksk.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://httrksk.github.io/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/contact/"
+                href="https://httrksk.github.io/ar/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://httrksk.github.io/contact/"
                 />
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://httrksk.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://httrksk.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://httrksk.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/image-test/</loc>
+    <loc>https://httrksk.github.io/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/thumbnail/</loc>
+    <loc>https://httrksk.github.io/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://httrksk.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/about/"
+                href="https://httrksk.github.io/ar/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://httrksk.github.io/about/"
                 />
   </url><url>
-    <loc>https://example.com/imprint/</loc>
+    <loc>https://httrksk.github.io/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://httrksk.github.io/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/index/"
+                href="https://httrksk.github.io/ar/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="https://httrksk.github.io/tags/index/"
                 />
   </url>
 </urlset>

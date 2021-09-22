@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>demo on My blog</title>
-    <link>https://example.com/tags/demo/</link>
+    <link>https://httrksk.github.io/tags/demo/</link>
     <description>Recent content in demo on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://httrksk.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://example.com/post/figure-shortcode/</link>
+      <link>https://httrksk.github.io/post/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://example.com/post/figure-shortcode/</guid>
+      <guid>https://httrksk.github.io/post/figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       
