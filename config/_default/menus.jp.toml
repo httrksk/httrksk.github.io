@@ -11,10 +11,10 @@
   url = "/jp/post/"
 
   [[main]]
-  name = "自己紹介"
+  name = "研究業績"
   weight = 300
-  identifier = "about"
-  url = "/jp/about/"
+  identifier = "pub"
+  url = "/jp/pub/"
 
   [[main]]
   name = "コンタクト"
