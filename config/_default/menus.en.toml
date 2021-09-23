@@ -17,7 +17,7 @@
   url = "/pub/"
 
   [[main]]
-  name = "Contact"
+  name = "About Me"
   weight = 400
-  identifier = "contact"
-  url = "/contact/"
+  identifier = "about"
+  url = "/about/"
