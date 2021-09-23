@@ -57,6 +57,6 @@ title = "Research Gate"
 url = "https://www.researchgate.net/profile/Keisuke-Hattori-2"
 
 [[socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
+icon = "fas fa-pen-square"
+title = "Note"
 url = "mailto:mail@example.com"
