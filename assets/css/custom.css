@@ -4,5 +4,5 @@ font-family: 'use-SourceHanSansJP';
   src: url('font/SourceHanSansJP-Normal.otf') format('opentype');
 }
 body{
-  font-family: "use-SourceHanSansJP";
+  font-family: "use-SourceHanSansJP", "游ゴシック™, "m plus 1p", "メイリオ", sans-serif;
 }
