@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
-title = "Guide to Thumbnails in Hugo"
-date = "2019-03-04"
+title = "画像の表示方法"
+date = "2021-09-04"
 description = "Guide to Thumbnails in Hugo"
 tags = [
     "thumbnail",

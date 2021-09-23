@@ -1,6 +1,6 @@
   [[main]]
   name = "ホーム"
-  identifier = "main"
+  identifier = "home"
   weight = 100
   url = "/jp/"
 
