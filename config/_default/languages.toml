@@ -11,4 +11,4 @@ description = """
 """
 contentDir = "content/jp" 
 weight = 2
-LanguageName = "JP"
+LanguageName = "日本語"
