@@ -174,9 +174,29 @@
   </url><url>
     <loc>https://httrksk.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/tags/emoji/"
+                />
   </url><url>
     <loc>https://httrksk.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/post/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/post/emoji-support/"
+                />
   </url><url>
     <loc>https://httrksk.github.io/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>

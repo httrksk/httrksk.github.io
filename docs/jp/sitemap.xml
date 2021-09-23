@@ -42,6 +42,7 @@
                 />
   </url><url>
     <loc>https://httrksk.github.io/jp/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,6 +52,58 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://httrksk.github.io/jp/"
+                />
+  </url><url>
+    <loc>https://httrksk.github.io/jp/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/tags/emoji/"
+                />
+  </url><url>
+    <loc>https://httrksk.github.io/jp/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/post/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/post/emoji-support/"
+                />
+  </url><url>
+    <loc>https://httrksk.github.io/jp/post/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/post/"
+                />
+  </url><url>
+    <loc>https://httrksk.github.io/jp/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/tags/"
                 />
   </url><url>
     <loc>https://httrksk.github.io/jp/categories/</loc>
@@ -77,18 +130,6 @@
                 href="https://httrksk.github.io/jp/tags/index/"
                 />
   </url><url>
-    <loc>https://httrksk.github.io/jp/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/post/"
-                />
-  </url><url>
     <loc>https://httrksk.github.io/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,18 +140,6 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://httrksk.github.io/jp/series/"
-                />
-  </url><url>
-    <loc>https://httrksk.github.io/jp/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/tags/"
                 />
   </url>
 </urlset>

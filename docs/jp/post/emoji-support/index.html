@@ -7,7 +7,7 @@
   <title>
     Keisuke Hattori
       |
-      index
+      Emoji Support
 
 
     
@@ -19,8 +19,7 @@
   <meta
     name="description"
     content="
-      青山学院大学 経営学部 教授
-
+      Guide to emoji usage in Hugo
 
 
     "
@@ -68,12 +67,9 @@
   <link rel="icon" type="image/png" sizes="32x32" href="https://httrksk.github.io/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="https://httrksk.github.io/favicons/favicon-16x16.png" />
 
-  <link rel="canonical" href="https://httrksk.github.io/jp/tags/index/" />
+  <link rel="canonical" href="https://httrksk.github.io/jp/post/emoji-support/" />
 
   
-  <link rel="alternate" type="application/rss+xml" href="https://httrksk.github.io/jp/tags/index/index.xml" title="服部 圭介" />
-
-
   
   
   
@@ -98,9 +94,8 @@
   <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://httrksk.github.io/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="index"/>
-<meta name="twitter:description" content="青山学院大学 経営学部 教授
-"/>
+<meta name="twitter:title" content="Emoji Support"/>
+<meta name="twitter:description" content="Guide to emoji usage in Hugo"/>
 
 
 
@@ -109,6 +104,80 @@
 
   
   
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "post",
+        "name": "Emoji Support",
+        "headline": "Emoji Support",
+        "alternativeHeadline": "",
+        "description": "
+      Guide to emoji usage in Hugo
+
+
+    ",
+        "inLanguage": "ja-jp",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/httrksk.github.io\/jp\/post\/emoji-support\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Hugo Authors"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Hugo Authors"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Hugo Authors"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Hugo Authors"
+        },
+        "copyrightYear" : "2019",
+        "dateCreated": "2019-03-05T00:00:00.00Z",
+        "datePublished": "2019-03-05T00:00:00.00Z",
+        "dateModified": "2019-03-05T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Hugo Authors",
+            "url": "https://httrksk.github.io/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/httrksk.github.io\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "https://httrksk.github.io/images/site-feature-image.png"
+
+
+      
+      ]
+
+    ,
+        "url" : "https:\/\/httrksk.github.io\/jp\/post\/emoji-support\/",
+        "wordCount" : "129",
+        "genre" : [ ],
+        "keywords" : [ 
+      
+      "emoji"
+
+    ]
+    }
+  </script>
+
+
 
 </head>
 <body>
@@ -276,37 +345,56 @@
         <div class="autopagerize_page_element">
           <div class="content">
   <div
-    class="archive 
+    class="post 
       animated fadeInDown
 
     "
   >
-    <ul class="list-with-title">
+    <div class="post-content">
       
-        <div class="listing-title">2019</div>
+      <div class="post-title">
+        <h1>Emoji Support</h1>
         
-          <ul class="listing">
-            <div class="listing-item">
-              <div class="listing-post">
-                <a href="https://httrksk.github.io/jp/post/" title="Posts">Posts</a>
-                <div class="post-time">
-                  <span class="date"
-                    >
-                      5/3/2019
+          <div class="info">
+            <em class="fas fa-calendar-day"></em>
+            <span class="date"
+              >
+                5/3/2019
 
 
-                    </span
-                  >
-                </div>
-              </div>
-            </div>
-          </ul>
+              </span
+            >
+            <em class="fas fa-stopwatch"></em>
+            <span class="reading-time">One-minute read</span>
+          </div>
 
         
+      </div><p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>🙈</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>🙉</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>🙊</code></span></p>
+<br>
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">.emoji {
+font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+}</code></pre></div></div>
+    <div class="post-footer">
+      <div class="info">
+        
+
+        
+          <span class="separator"><a class="tag" href="https://httrksk.github.io/jp/tags/emoji/">emoji</a></span>
 
 
-      
-    </ul>
+
+
+        
+      </div>
+    </div>
+
+    
   </div>
 
 
