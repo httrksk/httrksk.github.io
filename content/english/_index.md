@@ -2,34 +2,67 @@
 author = "Hugo Authors"
 +++
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+#### Keisuke HATTORI
+- Professor, School of Business, Aoyama Gakuin University
+- 4-4-25, Shibuya, Shibuya-ku, Tokyo 1508366, JAPAN
+- Email: hattori "at" busi.aoyama.ac.jp
 
-Markdown supported, ie:
+#### Research Areas
 
-```
-# Welcome
+- Public Economics: Provision of Public Goods, Advertising Regulations.
+- Industrial Organization: Mergers, Advertising, Competition Policy.
+- Environmental Economics: Trade and Environment, Political Economy on Environmental Policymaking.
+- Organizational Economics: Leadership, Team Production.
 
-- Hugo :rocket:
-- Hugo theme :rocket:
+#### Published Papers (Refereed)**
 
-Don't forget to check the README.md file!
-```
+- ["Effective Leadership Selection in Complementary Teams", ](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)[***Journal of Institutional and Theoretical Economics***](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)[, 176(4), 620-639, 2020](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)[. (Co-authored with Mai Yamada.)](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)
+- ["Skill Diversity and Leadership in Team Production", ](https://www.google.com/url?q=https%3A%2F%2Fwww.mohrsiebeck.com%2Fen%2Farticle%2Fskill-diversity-and-leadership-in-team-production-101628093245617x14996661407767&sa=D&sntz=1&usg=AFQjCNHjBLCr3O2oiaMJqmvEIBhs-UV9sA)[***Journal of Institutional and Theoretical Economics***](https://www.google.com/url?q=https%3A%2F%2Fwww.mohrsiebeck.com%2Fen%2Farticle%2Fskill-diversity-and-leadership-in-team-production-101628093245617x14996661407767&sa=D&sntz=1&usg=AFQjCNHjBLCr3O2oiaMJqmvEIBhs-UV9sA)[, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) ](https://www.google.com/url?q=https%3A%2F%2Fwww.mohrsiebeck.com%2Fen%2Farticle%2Fskill-diversity-and-leadership-in-team-production-101628093245617x14996661407767&sa=D&sntz=1&usg=AFQjCNHjBLCr3O2oiaMJqmvEIBhs-UV9sA)
+- ["Optimal Combination of Innovation and Environmental Policies under Technology Licensing", ](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.econmod.2017.04.024&sa=D&sntz=1&usg=AFQjCNEnHwBQ6EkiNutpWeBY6ySVIsu37Q)[***Economic Modelling***](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.econmod.2017.04.024&sa=D&sntz=1&usg=AFQjCNEnHwBQ6EkiNutpWeBY6ySVIsu37Q)[, 64, 601-609, 2017.](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.econmod.2017.04.024&sa=D&sntz=1&usg=AFQjCNEnHwBQ6EkiNutpWeBY6ySVIsu37Q)
+- ["Free Entry and Social Inefficiency under Co-opetition", ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fkap%2Fjeczfn%2Fv118y2016i2d10.1007_s00712-015-0469-x.html&sa=D&sntz=1&usg=AFQjCNGt5MG-WjmoLAac5JtCHYbUm81GbQ)[***Journal of Economics (Zeitschrift für Nationalökonomie)***](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fkap%2Fjeczfn%2Fv118y2016i2d10.1007_s00712-015-0469-x.html&sa=D&sntz=1&usg=AFQjCNGt5MG-WjmoLAac5JtCHYbUm81GbQ)[, 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.)](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fkap%2Fjeczfn%2Fv118y2016i2d10.1007_s00712-015-0469-x.html&sa=D&sntz=1&usg=AFQjCNGt5MG-WjmoLAac5JtCHYbUm81GbQ)
+- ["Who Benefits from Misleading Advertising?", ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Feconom%2Fv82y2015i328p613-643.html&sa=D&sntz=1&usg=AFQjCNExCImfDgvl_zKZLqrJr_XiwIFhDQ)[***Economica***](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Feconom%2Fv82y2015i328p613-643.html&sa=D&sntz=1&usg=AFQjCNExCImfDgvl_zKZLqrJr_XiwIFhDQ)[, 82(328), 613-643, 2015. (Co-authored with Keisaku Higashida.)](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Feconom%2Fv82y2015i328p613-643.html&sa=D&sntz=1&usg=AFQjCNExCImfDgvl_zKZLqrJr_XiwIFhDQ)
+- ["Within-group Cooperation and Between-group Externalities in the Provision of Public Goods", ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fkap%2Fitaxpf%2Fv22y2015i2p252-273.html&sa=D&sntz=1&usg=AFQjCNGy70R88EPxrpG4Sy5ERocH3OevHw)[***International Tax and Public Finance***](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fkap%2Fitaxpf%2Fv22y2015i2p252-273.html&sa=D&sntz=1&usg=AFQjCNGy70R88EPxrpG4Sy5ERocH3OevHw)[, 22(2), 252-273, 2015. ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fkap%2Fitaxpf%2Fv22y2015i2p252-273.html&sa=D&sntz=1&usg=AFQjCNGy70R88EPxrpG4Sy5ERocH3OevHw)
+- ["Trade Liberalization and Environmental Regulation on International Transportation", ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Fjecrev%2Fv65y2014i4p468-482.html&sa=D&sntz=1&usg=AFQjCNEJHGcVNqD6jE6M_DavYvnoWzQNHw)[***Japanese Economic Review***](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Fjecrev%2Fv65y2014i4p468-482.html&sa=D&sntz=1&usg=AFQjCNEJHGcVNqD6jE6M_DavYvnoWzQNHw)[, 65(4), 468-482. 2014. (Co-authored with Kenzo Abe and Yoshitaka Kawagoshi.)](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Fjecrev%2Fv65y2014i4p468-482.html&sa=D&sntz=1&usg=AFQjCNEJHGcVNqD6jE6M_DavYvnoWzQNHw)
+- ["Misleading Advertising and Minimum Quality Standards", ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Feee%2Fiepoli%2Fv28y2014icp1-14.html&sa=D&sntz=1&usg=AFQjCNG_nq5D9TLvqm9x3DgI1CbRhg82-Q)[***Information Economics and Policy***](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Feee%2Fiepoli%2Fv28y2014icp1-14.html&sa=D&sntz=1&usg=AFQjCNG_nq5D9TLvqm9x3DgI1CbRhg82-Q)[, 28, 1-14, 2014. (Co-authored with Keisaku Higashida.)](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Feee%2Fiepoli%2Fv28y2014icp1-14.html&sa=D&sntz=1&usg=AFQjCNG_nq5D9TLvqm9x3DgI1CbRhg82-Q)
+- ["Complementary Alliance in Composite Good Markets with Network Structure", ](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Fmanchs%2Fv82y2014i1p33-51.html&sa=D&sntz=1&usg=AFQjCNGUkJKeuYYaRLJllc6BlmgiyHlq9A)[***Manchester School***](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Fmanchs%2Fv82y2014i1p33-51.html&sa=D&sntz=1&usg=AFQjCNGUkJKeuYYaRLJllc6BlmgiyHlq9A)[, 82(1), 33-51, 2014 (Co-authored with Ming-Hsin Lin.)](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fa%2Fbla%2Fmanchs%2Fv82y2014i1p33-51.html&sa=D&sntz=1&usg=AFQjCNGUkJKeuYYaRLJllc6BlmgiyHlq9A)
+- ["Endogenous Timing in Strategic Environmental Policymaking", ](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10640-012-9622-y&sa=D&sntz=1&usg=AFQjCNGyMKno3R4XLly5GrdXIYlnosuy7w)[***Environmental and Resource Economics***](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10640-012-9622-y&sa=D&sntz=1&usg=AFQjCNGyMKno3R4XLly5GrdXIYlnosuy7w)[, 55(2), 199-215, 2013. (Co-authored with Takahiro Kitamura.)](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10640-012-9622-y&sa=D&sntz=1&usg=AFQjCNGyMKno3R4XLly5GrdXIYlnosuy7w)
+- ["Environmental Innovation and Policy Harmonization in International Oligopoly", ](http://www.google.com/url?q=http%3A%2F%2Fjournals.cambridge.org%2Fabstract_S1355770X1200040X&sa=D&sntz=1&usg=AFQjCNGoYmjaeZO651w6JZpMx54E-RBjGg)[***Environment and Development Economics***](http://www.google.com/url?q=http%3A%2F%2Fjournals.cambridge.org%2Fabstract_S1355770X1200040X&sa=D&sntz=1&usg=AFQjCNGoYmjaeZO651w6JZpMx54E-RBjGg)[, 18, 162-183, 2013.](http://www.google.com/url?q=http%3A%2F%2Fjournals.cambridge.org%2Fabstract_S1355770X1200040X&sa=D&sntz=1&usg=AFQjCNGoYmjaeZO651w6JZpMx54E-RBjGg) [Online Appendix]
+- ["Misleading Advertising in Duopoly", ](http://www.google.com/url?q=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1540-5982.2012.01730.x%2Fabstract&sa=D&sntz=1&usg=AFQjCNHDipgvMAUux-T8w84IyrBCH3G_Dw)[***Canadian Journal of Economics***](http://www.google.com/url?q=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1540-5982.2012.01730.x%2Fabstract&sa=D&sntz=1&usg=AFQjCNHDipgvMAUux-T8w84IyrBCH3G_Dw)[, 45, 1154-1187, 2012. (Co-authored with Keisaku Higashida.)](http://www.google.com/url?q=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1540-5982.2012.01730.x%2Fabstract&sa=D&sntz=1&usg=AFQjCNHDipgvMAUux-T8w84IyrBCH3G_Dw)
+- ["Alliance Partner Choice in Markets with Vertical and Horizontal Externalities", ](http://www.google.com/url?q=http%3A%2F%2Fwww.degruyter.com%2Fview%2Fj%2Fbejte.2011.11.issue-1%2Fbejte.2011.11.1.1732%2Fbejte.2011.11.1.1732.xml&sa=D&sntz=1&usg=AFQjCNEYlCshJ9AFa1Icx8jqwcH5lRIudQ)[***B.E. Journal of Theoretical Economics***](http://www.google.com/url?q=http%3A%2F%2Fwww.degruyter.com%2Fview%2Fj%2Fbejte.2011.11.issue-1%2Fbejte.2011.11.1.1732%2Fbejte.2011.11.1.1732.xml&sa=D&sntz=1&usg=AFQjCNEYlCshJ9AFa1Icx8jqwcH5lRIudQ)[,](http://www.google.com/url?q=http%3A%2F%2Fwww.degruyter.com%2Fview%2Fj%2Fbejte.2011.11.issue-1%2Fbejte.2011.11.1.1732%2Fbejte.2011.11.1.1732.xml&sa=D&sntz=1&usg=AFQjCNEYlCshJ9AFa1Icx8jqwcH5lRIudQ)[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.degruyter.com%2Fview%2Fj%2Fbejte.2011.11.issue-1%2Fbejte.2011.11.1.1732%2Fbejte.2011.11.1.1732.xml&sa=D&sntz=1&usg=AFQjCNEYlCshJ9AFa1Icx8jqwcH5lRIudQ)[11, Issue 1 (Topics), Article 13, 2011. (Co-authored with Ming-Hsin Lin.)](http://www.google.com/url?q=http%3A%2F%2Fwww.degruyter.com%2Fview%2Fj%2Fbejte.2011.11.issue-1%2Fbejte.2011.11.1.1732%2Fbejte.2011.11.1.1732.xml&sa=D&sntz=1&usg=AFQjCNEYlCshJ9AFa1Icx8jqwcH5lRIudQ)
+- ["Strategic Voting for Noncooperative Environmental Policies in Open Economies", ](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2Fs10640-010-9349-6&sa=D&sntz=1&usg=AFQjCNGpzh8tcnFzYy_R1N0ekzz6gniEgw)[***Environmental and Resource Economics***](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2Fs10640-010-9349-6&sa=D&sntz=1&usg=AFQjCNGpzh8tcnFzYy_R1N0ekzz6gniEgw)[, 46, 459-474, 2010.](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2Fs10640-010-9349-6&sa=D&sntz=1&usg=AFQjCNGpzh8tcnFzYy_R1N0ekzz6gniEgw)
+- ["Is Technological Progress Pareto-Improving for a World with Global Public Goods?", ](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2Fs00712-004-0106-6&sa=D&sntz=1&usg=AFQjCNE4Mg3KdpyR8AXQv_c5U02Zh468ig)[***Journal of Economics (Zeitschrift für Nationalökonomie)***](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2Fs00712-004-0106-6&sa=D&sntz=1&usg=AFQjCNE4Mg3KdpyR8AXQv_c5U02Zh468ig)[, 84, 135-156, 2005.](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1007%2Fs00712-004-0106-6&sa=D&sntz=1&usg=AFQjCNE4Mg3KdpyR8AXQv_c5U02Zh468ig)
+  - [Essays on the Private Provision of Public Goods, ](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f%26locale%3Den&sa=D&sntz=1&usg=AFQjCNEBCsTdTdyQXhhbTfWUCxpwWkdUug)[***Ph.D. Thesis, Osaka University***](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f%26locale%3Den&sa=D&sntz=1&usg=AFQjCNEBCsTdTdyQXhhbTfWUCxpwWkdUug)[, 2005.](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f%26locale%3Den&sa=D&sntz=1&usg=AFQjCNEBCsTdTdyQXhhbTfWUCxpwWkdUug)
+- ["Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", ](http://www.google.com/url?q=http%3A%2F%2Fwww.accessecon.com%2Fpubs%2Feb%2F2003%2Fvolume8%2FEB-02H40004A.pdf&sa=D&sntz=1&usg=AFQjCNGBLZdMFKUGnJ-Vo2_sQTI924w8vg)[***Economics Bulletin***](http://www.google.com/url?q=http%3A%2F%2Fwww.accessecon.com%2Fpubs%2Feb%2F2003%2Fvolume8%2FEB-02H40004A.pdf&sa=D&sntz=1&usg=AFQjCNGBLZdMFKUGnJ-Vo2_sQTI924w8vg)[, 8-7, 1-10, 2003.](http://www.google.com/url?q=http%3A%2F%2Fwww.accessecon.com%2Fpubs%2Feb%2F2003%2Fvolume8%2FEB-02H40004A.pdf&sa=D&sntz=1&usg=AFQjCNGBLZdMFKUGnJ-Vo2_sQTI924w8vg)
 
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+#### Published Papers (Others)
 
+- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In [Ihori, T. and Terai, K. Eds, ](http://www.google.com/url?q=http%3A%2F%2Fwww.springer.com%2Feconomics%2Fpublic%2Bfinance%2Fbook%2F978-4-431-55126-3&sa=D&sntz=1&usg=AFQjCNFSGACx-zrvhCeXTw_ahdkJKKEk4Q)[***The Political Economy of Fiscal Consolidation in Japan***](http://www.google.com/url?q=http%3A%2F%2Fwww.springer.com%2Feconomics%2Fpublic%2Bfinance%2Fbook%2F978-4-431-55126-3&sa=D&sntz=1&usg=AFQjCNFSGACx-zrvhCeXTw_ahdkJKKEk4Q)[, forthcoming, Springer. ](http://www.google.com/url?q=http%3A%2F%2Fwww.springer.com%2Feconomics%2Fpublic%2Bfinance%2Fbook%2F978-4-431-55126-3&sa=D&sntz=1&usg=AFQjCNFSGACx-zrvhCeXTw_ahdkJKKEk4Q)
+- ["Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), ](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)[***Osaka Keidai Ronshu***](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)[, 60, 225-239, 2010.](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)
+- "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", ***Osaka Keidai Ronshu***, 57, 119-126, 2006.
+- "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), ***Osaka Economic Papers***, 52-2, 137-153, 2002.
 
-### TEST DESCRIPTION
-#### 日本語
-- A
-- B
-- C
-1. a
-2. b
-3. c
+#### Working Papers
+
+- ["Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).](https://www.google.com/url?q=https%3A%2F%2Fmpra.ub.uni-muenchen.de%2F103422%2F1%2FMPRA_paper_103422.pdf&sa=D&sntz=1&usg=AFQjCNHshicBxIhltGOCql9queszw8AMYA)
+- ["Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).](https://www.google.com/url?q=https%3A%2F%2Fmpra.ub.uni-muenchen.de%2F89893%2F9%2FMPRA_paper_89893.pdf&sa=D&sntz=1&usg=AFQjCNGxPmOolJ6hDPpysDDohfGyV7w25A)
+- ["Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.](https://www.google.com/url?q=https%3A%2F%2Fmpra.ub.uni-muenchen.de%2F70288%2F1%2FMPRA_paper_70288.pdf&sa=D&sntz=1&usg=AFQjCNEErQ7wSF-nsSvNCbffVwE3owW1rg)
+- ["Should non-genuine products be expelled from markets?", Kwansei Gakuin University Discussion Paper Series, No. 126, March 2015. (Co-authored with Keisaku Higashida.)](http://www.google.com/url?q=http%3A%2F%2F192.218.163.163%2FRePEc%2Fpdf%2Fkgdp126.pdf&sa=D&sntz=1&usg=AFQjCNF3FqSj21DL0c8bQsS2w572VPzeWA)
+- ["How to Commit to a Future Price", Working Papers 131402, University of California-Irvine, Department of Economics. (Co-authored with Amihai Glazer.)](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fp%2Firv%2Fwpaper%2F131402.html&sa=D&sntz=1&usg=AFQjCNH6NWfiS8U5f6kUUtKmPoHpDZsV3Q)
+- "When Government Misleads US: Sending Misinformation as Protectionist Devices", Kwansei Gakuin University Discussion Paper Series, No. 75, August 2011. [[Link PDF](http://www.google.com/url?q=http%3A%2F%2Fwww-econ.kwansei.ac.jp%2F~econ%2Fgs%2Fdp%2Fkgdp75.pdf&sa=D&sntz=1&usg=AFQjCNGVXXzgcpd8QymQPF2z5zO4yFViug)] (Co-authored with Keisaku Higashida.)
+- ["Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007.](http://www.google.com/url?q=http%3A%2F%2Fmpra.ub.uni-muenchen.de%2F6334%2F&sa=D&sntz=1&usg=AFQjCNHOASbPebO_gFqtyt3qpSGAHuMoRw) R&R
+- "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: [http://www.ssrn.com/abstract=1009425](http://www.google.com/url?q=http%3A%2F%2Fwww.ssrn.com%2Fabstract%3D1009425&sa=D&sntz=1&usg=AFQjCNFmdlkw1pMzo_7O1Y7sxuEy4uxH5g)
+
+#### Academic Positions
+
+- 2020 Apr. - present: Professor, Aoyama Gakuin University, JAPAN.
+- 2014 Jul. - 2020 Mar: Professor, Osaka University of Economics, JAPAN.
+- 2008 Feb. - 2014 Jul.: Associate Professor, Osaka University of Economics, JAPAN.
+- 2012 Aug. - 2013 Aug.: Visiting Researcher, University of California, Irvine, USA.
+- 2005 Apr. - 2008 Feb.: Lecturer, Osaka University of Economics, JAPAN.
+
+#### Education
+
+- Ph.D. Osaka University (2005), Economics
+- M.A. Osaka University (2002), Economics
+- B.A. Kwansei Gakuin University (2000), Economics 
