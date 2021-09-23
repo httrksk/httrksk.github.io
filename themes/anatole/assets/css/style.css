@@ -348,9 +348,10 @@ aside {
 
 .post .post-title h1 {
   text-transform: uppercase;
-  font-size: 2em;
+  font-size: 1.8em;
   letter-spacing: 1px;
   line-height: 1;
+  font-weight: 400;
 }
 
 .post .post-title h2 {

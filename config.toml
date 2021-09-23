@@ -2,7 +2,7 @@ baseURL = "https://httrksk.github.io/"
 languageCode = "ja-jp"
 title = "Keisuke Hattori"
 theme = "anatole"
-summarylength = 10
+summarylength = 5
 enableEmoji = true
 enableRobotsTXT = true
 canonifyurls = true
@@ -11,6 +11,7 @@ publishDir = "docs"
 [params]
 title = "Keisuke Hattori"
 author = "Keisuke Hattori"
+
 
 
 # Enable Disqus

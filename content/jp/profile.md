@@ -1,4 +1,4 @@
-### プロフィール <i class="fab fa-github"></i> 
+### プロフィール <i class="fab fa-github"></i>
 
 #### <i class="fas fa-user-circle"></i> 基本情報
 

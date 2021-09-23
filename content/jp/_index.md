@@ -26,6 +26,3 @@ Remember that you can also specify a section header for the posts below by confi
 -->
 
 ### Blog <i class="fas fa-pen-square"></i> 
-
-□ □
-
