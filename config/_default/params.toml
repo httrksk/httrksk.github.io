@@ -44,7 +44,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/keisuke-hattori-889a4419b/"
 
 [[socialIcons]]
 icon = "fab fa-github"
@@ -52,9 +52,9 @@ title = "GitHub"
 url = "https://github.com/lxndrblz/anatole/"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fab fa-researchgate"
+title = "Research Gate"
+url = "https://www.researchgate.net/profile/Keisuke-Hattori-2"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
