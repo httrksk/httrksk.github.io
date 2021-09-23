@@ -17,7 +17,13 @@
   url = "/jp/pub/"
 
   [[main]]
-  name = "コンタクト"
+  name = "プロフィール"
   weight = 400
-  identifier = "contact"
-  url = "/jp/contact/"
+  identifier = "profile"
+  url = "/jp/profile/"
+  
+    [[main]]
+  name = "講義/ゼミ"
+  weight = 500
+  identifier = "edu"
+  url = "/jp/edu/"
