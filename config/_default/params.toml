@@ -8,9 +8,9 @@ Aoyama Gakuin University, JAPAN
 """
 profilePicture = "images/profile.jpg"
 keywords = ""
-favicon = "favicons/favicon.png"
+favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
