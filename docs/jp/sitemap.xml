@@ -42,7 +42,6 @@
                 />
   </url><url>
     <loc>https://httrksk.github.io/jp/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,38 +52,6 @@
                 hreflang="jp"
                 href="https://httrksk.github.io/jp/"
                 />
-  </url><url>
-    <loc>https://httrksk.github.io/jp/post/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/post/"
-                />
-  </url><url>
-    <loc>https://httrksk.github.io/jp/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/tags/"
-                />
-  </url><url>
-    <loc>https://httrksk.github.io/jp/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://httrksk.github.io/jp/post/arabic_example/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://httrksk.github.io/jp/categories/</loc>
     <xhtml:link
@@ -110,6 +77,18 @@
                 href="https://httrksk.github.io/jp/tags/index/"
                 />
   </url><url>
+    <loc>https://httrksk.github.io/jp/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/post/"
+                />
+  </url><url>
     <loc>https://httrksk.github.io/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,6 +99,18 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://httrksk.github.io/jp/series/"
+                />
+  </url><url>
+    <loc>https://httrksk.github.io/jp/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/tags/"
                 />
   </url>
 </urlset>
