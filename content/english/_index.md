@@ -3,19 +3,19 @@ author = "Hugo Authors"
 +++
 
 
-#### Keisuke HATTORI
+#### <i class="fas fa-user-circle"></i> Keisuke HATTORI
 - Professor, School of Business, Aoyama Gakuin University
 - 4-4-25, Shibuya, Shibuya-ku, Tokyo 1508366, JAPAN
 - Email: hattori "at" busi.aoyama.ac.jp
 
-#### Research Areas
+#### <i class="fab fa-cloudsmith"></i> Research Areas
 
 - Public Economics: Provision of Public Goods, Advertising Regulations.
 - Industrial Organization: Mergers, Advertising, Competition Policy.
 - Environmental Economics: Trade and Environment, Political Economy on Environmental Policymaking.
 - Organizational Economics: Leadership, Team Production.
 
-#### Published Papers (Refereed)
+#### <i class="fas fa-check-square"></i> Published Papers (Refereed)
 
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.)
 - "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) 
@@ -35,14 +35,14 @@ author = "Hugo Authors"
 - Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005.
 - "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003.
 
-#### Published Papers (Others)
+#### <i class="fas fa-check-square"></i> Published Papers (Others)
 
 - Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. 
 - "Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), Osaka Keidai Ronshu, 60, 225-239, 2010.
 - "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
 - "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
 
-#### Working Papers
+#### <i class="fas fa-check-square"></i> Working Papers
 
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).
@@ -53,7 +53,7 @@ author = "Hugo Authors"
 - "Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007. R&R
 - "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: http://www.ssrn.com/abstract=1009425
 
-#### Academic Positions
+#### <i class="fas fa-chalkboard-teacher"></i> Academic Positions
 
 - 2020 Apr. - present: Professor, Aoyama Gakuin University, JAPAN.
 - 2014 Jul. - 2020 Mar: Professor, Osaka University of Economics, JAPAN.
@@ -61,7 +61,7 @@ author = "Hugo Authors"
 - 2012 Aug. - 2013 Aug.: Visiting Researcher, University of California, Irvine, USA.
 - 2005 Apr. - 2008 Feb.: Lecturer, Osaka University of Economics, JAPAN.
 
-#### Education
+#### <i class="fas fa-graduation-cap"></i> Education
 
 - Ph.D. Osaka University (2005), Economics
 - M.A. Osaka University (2002), Economics
