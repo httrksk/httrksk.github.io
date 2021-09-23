@@ -5,8 +5,8 @@
   url = "/jp/"
 
   [[main]]
-  name = "投稿"
-  weight = 200
+  name = "アーカイブ"
+  weight = 500
   identifier = "posts"
   url = "/jp/post/"
 
@@ -18,12 +18,12 @@
 
   [[main]]
   name = "プロフィール"
-  weight = 400
+  weight = 200
   identifier = "profile"
   url = "/jp/profile/"
   
     [[main]]
   name = "講義/ゼミ"
-  weight = 500
+  weight = 400
   identifier = "edu"
   url = "/jp/edu/"

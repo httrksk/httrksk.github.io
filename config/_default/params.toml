@@ -2,12 +2,13 @@ title = "Keisuke Hattori"
 author = "Keisuke Hattori"
 #copyright = "2020-2021"
 description = """
-Professor,
-School of Business,
+Professor
+School of Business
 Aoyama Gakuin University, JAPAN
 """
 profilePicture = "images/profile.jpg"
 keywords = ""
+contentratio = 0.65
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = ["css/custom.css"]
@@ -47,9 +48,9 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/keisuke-hattori-889a4419b/"
 
 [[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+icon = "fas fa-lightbulb"
+title = "Ideas"
+url = "https://ideas.repec.org/f/pha391.html"
 
 [[socialIcons]]
 icon = "fab fa-researchgate"
@@ -59,4 +60,4 @@ url = "https://www.researchgate.net/profile/Keisuke-Hattori-2"
 [[socialIcons]]
 icon = "fas fa-pen-square"
 title = "Note"
-url = "mailto:mail@example.com"
+url = "https://note.com/hattorizemi"

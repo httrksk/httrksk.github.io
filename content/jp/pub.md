@@ -1,5 +1,5 @@
-### 研究業績
-#### <code>:page_facing_up:</code> 論文 (査読付き・英文)
+### 研究業績 <i class="fas fa-folder-open"></i>
+#### <i class="fas fa-check-square"></i> 論文 (査読付き・英文)
 
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)]
 - "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2F093245617X14996661407767&sa=D&sntz=1&usg=AFQjCNEZf98jEBxRB6o3V0ExyU1BJdJBmQ)]
@@ -19,14 +19,14 @@
 - Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005. [[国会図書館データベースへのリンク](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f&sa=D&sntz=1&usg=AFQjCNE_J_Zgor_w-umEhLubA2bEXvUGNw)]
 - "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003.  [[LINK](http://www.google.com/url?q=http%3A%2F%2Fwww.accessecon.com%2Fpubs%2Feb%2F2003%2Fvolume8%2FEB-02H40004A.pdf&sa=D&sntz=1&usg=AFQjCNGBLZdMFKUGnJ-Vo2_sQTI924w8vg)]
 
-#### <code>:page_facing_up:</code> 論文（その他・紀要など）
+#### <i class="fas fa-check-square"></i> 論文（その他・紀要など）
 
 - Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. 
 - 「戦略的環境政策の政治経済学的アプローチ」, 大阪経大論集, 60, 225-239, 2010. [[Link PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)]
 - "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
 - 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. 
 
-#### <code>:page_facing_up:</code> ワーキング・ペーパー
+#### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).
@@ -36,3 +36,25 @@
 - "When Government Misleads US: Sending Misinformation as Protectionist Devices", Kwansei Gakuin University Discussion Paper Series, No. 75, August 2011. [Link PDF] (Co-authored with Keisaku Higashida.)
 - "Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007. R&R
 - "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: http://www.ssrn.com/abstract=1009425
+
+#### <i class="fas fa-comment-dollar"></i> 研究助成など
+
+- 2019 - 2023年
+  - 科学研究費 基盤 C（研究代表者）『多市場間の相互作用と企業の戦略的行動に関する経済分析』（課題番号19K01639）
+- 2013年 - 2018年 
+  - 科学研究費 基盤C（研究代表者）『貿易・環境政策としての情報操作、および品質規制に関する理論研究』（課題番号：25380343）
+- 2011年 - 2014年
+  - 科学研究費 基盤B（研究分担者）『市場構造、所有権と責任に関する制度と環境規制の経済分析』（課題番号：23330087）
+- 2010年 - 2012年
+  - 野村財団 研究助成 （研究分担者）『環境規制・安全性基準と製品情報、消費者認識、およびグリーンマーケットの経済分析』
+- 2010年 - 2013年
+  - 科学研究費 若手B（研究代表者）『環境技術開発と環境政策の国際的なコーディネーションに関する理論研究』（課題番号：22730210）
+- 2005年 - 2007年
+  - 環境省 地球環境研究総合推進費 新規課題検討調査研究（研究分担者）『環境税改革の経済分析：企業の技術開発を通じた経済効果に関する予備的研究』
+- 2005年 - 2008年
+  - 科学研究費 若手B（研究代表者）『国際公共財の私的供給理論における技術革新・移転・波及効果と国際制度設計』（課題番号：18730227）
+
+#### <i class="fas fa-bone"></i> その他
+
+- 日本経済学会2014年度春季大会プログラム委員
+- 日本経済学会2019年度春季大会プログラム委員
