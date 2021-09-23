@@ -5,8 +5,8 @@ date = "2021-09-22"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
-### <code>:page_facing_up:</code>研究業績
-#### 論文 (査読付き・英文)
+### 研究業績
+#### <code>:page_facing_up:</code> 論文 (査読付き・英文)
 
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.)
 
