@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcode on 服部 圭介</title>
+    <link>https://httrksk.github.io/jp/tags/shortcode/</link>
+    <description>Recent content in shortcode on 服部 圭介</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://httrksk.github.io/jp/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://httrksk.github.io/jp/post/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://httrksk.github.io/jp/post/figure-shortcode/</guid>
+      
+        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

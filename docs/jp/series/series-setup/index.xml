@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>series-setup on 服部 圭介</title>
+    <link>https://httrksk.github.io/jp/series/series-setup/</link>
+    <description>Recent content in series-setup on 服部 圭介</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://httrksk.github.io/jp/series/series-setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Series Part 2</title>
+      <link>https://httrksk.github.io/jp/post/series-part-2/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://httrksk.github.io/jp/post/series-part-2/</guid>
+      
+        <description>&lt;p&gt;In this second part of the series we&amp;rsquo;ll show you where to find the full series&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Series Part 1</title>
+      <link>https://httrksk.github.io/jp/post/series-part-1/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://httrksk.github.io/jp/post/series-part-1/</guid>
+      
+        <description>&lt;p&gt;In this first part of the series we&amp;rsquo;ll show you how to create a series&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

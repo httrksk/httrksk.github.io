@@ -1,8 +1,8 @@
   [[main]]
-  name = "Home"
+  name = "About Me"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/about/"
 
   [[main]]
   name = "Posts"
