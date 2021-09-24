@@ -15,6 +15,19 @@
                 href="https://httrksk.github.io/jp/"
                 />
   </url><url>
+    <loc>https://httrksk.github.io/jp/categories/</loc>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/categories/"
+                />
+  </url><url>
     <loc>https://httrksk.github.io/jp/post/</loc>
     <lastmod>2021-03-21T09:29:57+09:00</lastmod>
     <xhtml:link
@@ -28,8 +41,20 @@
                 href="https://httrksk.github.io/jp/post/"
                 />
   </url><url>
-    <loc>https://httrksk.github.io/jp/tags/</loc>
+    <loc>https://httrksk.github.io/jp/categories/%E7%A0%94%E7%A9%B6/</loc>
     <lastmod>2021-03-21T09:29:57+09:00</lastmod>
+  </url><url>
+    <loc>https://httrksk.github.io/jp/post/20210321/</loc>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
+  </url><url>
+    <loc>https://httrksk.github.io/jp/post/20210124/</loc>
+    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
+  </url><url>
+    <loc>https://httrksk.github.io/jp/tags/hugo/</loc>
+    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
+  </url><url>
+    <loc>https://httrksk.github.io/jp/tags/</loc>
+    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,16 +66,7 @@
                 href="https://httrksk.github.io/jp/tags/"
                 />
   </url><url>
-    <loc>https://httrksk.github.io/jp/tags/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
-  </url><url>
-    <loc>https://httrksk.github.io/jp/post/20210321/</loc>
-    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
-  </url><url>
-    <loc>https://httrksk.github.io/jp/post/20210124/</loc>
-    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
-  </url><url>
-    <loc>https://httrksk.github.io/jp/tags/%E8%BF%91%E6%B3%81/</loc>
+    <loc>https://httrksk.github.io/jp/categories/%E8%BF%91%E6%B3%81/</loc>
     <lastmod>2021-01-24T01:31:57+09:00</lastmod>
   </url><url>
     <loc>https://httrksk.github.io/jp/archives/</loc>
@@ -74,18 +90,6 @@
   </url><url>
     <loc>https://httrksk.github.io/jp/pub/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://httrksk.github.io/jp/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/categories/"
-                />
   </url><url>
     <loc>https://httrksk.github.io/jp/tags/index/</loc>
     <xhtml:link
