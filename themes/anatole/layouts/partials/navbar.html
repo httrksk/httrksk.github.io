@@ -37,7 +37,7 @@
         {{ end }}
         {{ if .Site.IsMultiLingual }}
           {{ range $.Site.Home.AllTranslations }}
-            <li><a href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">{{ .Language.LanguageName }}</a></li>
+        <li><a class="category2" href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}">{{ .Language.LanguageName }}</a></li>
 
           {{ end }}
 

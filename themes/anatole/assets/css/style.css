@@ -82,6 +82,14 @@ blockquote {
   color: var(--tag-color) !important;
   background-color: var(--secondary-bg-color);
   border: 1px solid var(--border-color);
+	}
+	
+.category2 {
+  padding: 0px 4px;
+  border-radius: 4px;
+  color: var(--tag-color) !important;
+  background-color: var(--secondary-bg-color);
+  border: 1px solid var(--border-color);
 }
 
 .tag::before {
@@ -211,7 +219,7 @@ header {
 header .nav__list {
   list-style: none;
   padding: 20px 30px;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 header .nav__list li {
