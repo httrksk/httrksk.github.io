@@ -14,8 +14,7 @@
       
       <guid>https://httrksk.github.io/jp/post/20210124/</guid>
       
-        <description>Google site からホームページを移転しました。
-このサイトは GitHub + Hugo を使っています。Google site からの引っ越し先候補として、気軽にエントリも書けて、ゼミのホームページも運営している NOTE を使おうかと思ったのですが、TeXスタイルで簡単に数式入力が可能な（例えば \(\displaystyle\int_0^\infty f(z)dz\) みたいな） こともあり、Hugo を使うことにしました。テンプレートは Anatole を使っています。</description>
+        <description>&lt;p&gt;Google site からホームページを移転しました。&lt;/p&gt;</description>
       
     </item>
     

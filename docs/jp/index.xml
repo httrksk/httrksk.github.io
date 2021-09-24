@@ -6,7 +6,18 @@
     <description>Recent content on 服部 圭介</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 24 Jan 2021 01:31:57 +0900</lastBuildDate><atom:link href="https://httrksk.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 09:29:57 +0900</lastBuildDate><atom:link href="https://httrksk.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>研究会（神戸大学）にて研究報告</title>
+      <link>https://httrksk.github.io/jp/post/20210321/</link>
+      <pubDate>Sun, 21 Mar 2021 09:29:57 +0900</pubDate>
+      
+      <guid>https://httrksk.github.io/jp/post/20210321/</guid>
+      
+        <description>&lt;p&gt;2021年3月20日に、神戸大学で開催された&lt;a href=&#34;https://sites.google.com/site/yusukezennyo/%E7%A0%94%E7%A9%B6%E4%BC%9A&#34;&gt;第2回プラットフォームと流通の研究会&lt;/a&gt; にて研究報告をさせていただきました。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Google site から引っ越してきました</title>
       <link>https://httrksk.github.io/jp/post/20210124/</link>
@@ -14,8 +25,7 @@
       
       <guid>https://httrksk.github.io/jp/post/20210124/</guid>
       
-        <description>Google site からホームページを移転しました。
-このサイトは GitHub + Hugo を使っています。Google site からの引っ越し先候補として、気軽にエントリも書けて、ゼミのホームページも運営している NOTE を使おうかと思ったのですが、TeXスタイルで簡単に数式入力が可能な（例えば \(\displaystyle\int_0^\infty f(z)dz\) みたいな） こともあり、Hugo を使うことにしました。テンプレートは Anatole を使っています。</description>
+        <description>&lt;p&gt;Google site からホームページを移転しました。&lt;/p&gt;</description>
       
     </item>
     
@@ -37,7 +47,8 @@
       
       <guid>https://httrksk.github.io/jp/edu/</guid>
       
-        <description>講義/ゼミ   ゼミ活動  青山学院大学 服部ゼミの NOTE    ゼミの新着情報、活動、研究報告の要約などを閲覧できます。</description>
+        <description>講義/ゼミ   ゼミ活動  青山学院大学 服部ゼミの NOTE    ゼミの新着情報、活動、研究報告の要約などを閲覧できます。
+  講義  2021年度 担当講義（青山学院大学）  ミクロ経済学基礎 I・II ビジネス・エコノミクス A・B 経営演習（ゼミ）   過去の担当講義  公共経済学（大阪経済大学）・応用ミクロ経済学（大阪経済大学）    </description>
       
     </item>
     
@@ -48,7 +59,7 @@
       
       <guid>https://httrksk.github.io/jp/profile/</guid>
       
-        <description>プロフィール   基本情報  服部 圭介（はっとり けいすけ） アドレス（職場）: 〒150-8366 東京都渋谷区渋谷4-4-25 青山学院大学 経営学部 メール: hattori &amp;ldquo;at&amp;rdquo; busi.</description>
+        <description>プロフィール   基本情報  服部 圭介（はっとり けいすけ） アドレス（職場）: 〒150-8366 東京都渋谷区渋谷4-4-25 青山学院大学 経営学部 メール: hattori &amp;ldquo;at&amp;rdquo; busi.aoyama.ac.jp   職歴（常勤）  2005年4月1日 - 2008年2月28日 : 大阪経済大学 経済学部 専任講師 2008年2月29日 - 2014年7月3日 : 大阪経済大学 経済学部 准教授 2014年7月4日 - 2020年3月31日：大阪経済大学 経済学部 教授 2020年4月1日- 現在：青山学院大学 経営学部 教授   職歴（非常勤）  2012年7月 - 2013年8月：カリフォルニア大学アーバイン校 客員研究員 立命館大学 (2013, 2014), 大阪市立大学(2015), 沖縄国際大学(2017), 京都大学(2019), 大阪経済大学(2020, 2021)   学歴  1996年 3月：大阪府立 豊中高等学校 卒業 2000年 3月 : 関西学院大学 経済学部 卒業 （学士（経済学）） 2002年 3月 : 大阪大学 経済学研究科博士前期課程修了（修士（経済学）） 2005年 3月 : 大阪大学 経済学研究科博士後期課程修了（博士（経済学））  博士論文題目 &amp;ldquo;Essays on the Private Provision of Public Goods&amp;rdquo; 主査 : 小野哲生 大阪大学准教授, 二神孝一 大阪大学教授, 阿部顕三 大阪大学教授 （主査の先生方の職階は当時のもの） 学位授与番号 14401甲第10180号; 学位記番号 第19173号  大阪大学 学位論文データベースへのリンク 国立国会図書館 データベースへのリンク      </description>
       
     </item>
     
@@ -59,7 +70,7 @@
       
       <guid>https://httrksk.github.io/jp/pub/</guid>
       
-        <description>研究業績   論文 (査読付き・英文)  &amp;ldquo;Effective Leadership Selection in Complementary Teams&amp;rdquo;, Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020.</description>
+        <description>研究業績   論文 (査読付き・英文)  &amp;ldquo;Effective Leadership Selection in Complementary Teams&amp;rdquo;, Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [LINK] &amp;ldquo;Skill Diversity and Leadership in Team Production&amp;rdquo;, Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [LINK] &amp;ldquo;Optimal Combination of Innovation and Environmental Policies under Technology Licensing&amp;rdquo;, Economic Modelling, 64, 601-609, 2017.</description>
       
     </item>
     

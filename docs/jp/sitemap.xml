@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://httrksk.github.io/jp/</loc>
-    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,8 @@
                 href="https://httrksk.github.io/jp/"
                 />
   </url><url>
-    <loc>https://httrksk.github.io/jp/post/20210124/</loc>
-    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
-  </url><url>
     <loc>https://httrksk.github.io/jp/post/</loc>
-    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +29,7 @@
                 />
   </url><url>
     <loc>https://httrksk.github.io/jp/tags/</loc>
-    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,6 +40,15 @@
                 hreflang="jp"
                 href="https://httrksk.github.io/jp/tags/"
                 />
+  </url><url>
+    <loc>https://httrksk.github.io/jp/tags/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
+  </url><url>
+    <loc>https://httrksk.github.io/jp/post/20210321/</loc>
+    <lastmod>2021-03-21T09:29:57+09:00</lastmod>
+  </url><url>
+    <loc>https://httrksk.github.io/jp/post/20210124/</loc>
+    <lastmod>2021-01-24T01:31:57+09:00</lastmod>
   </url><url>
     <loc>https://httrksk.github.io/jp/tags/%E8%BF%91%E6%B3%81/</loc>
     <lastmod>2021-01-24T01:31:57+09:00</lastmod>

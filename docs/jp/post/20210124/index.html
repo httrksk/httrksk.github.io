@@ -96,8 +96,7 @@
 <meta name="twitter:image" content="https://httrksk.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content="Google site から引っ越してきました"/>
-<meta name="twitter:description" content="Google site からホームページを移転しました。
-このサイトは GitHub &#43; Hugo を使っています。Google site からの引っ越し先候補として、気軽にエントリも書けて、ゼミのホームページも運営している NOTE を使おうかと思ったのですが、TeXスタイルで簡単に数式入力が可能な（例えば \(\displaystyle\int_0^\infty f(z)dz\) みたいな） こともあり、Hugo を使うことにしました。テンプレートは Anatole を使っています。"/>
+<meta name="twitter:description" content="Google site からホームページを移転しました。"/>
 
 
 
@@ -118,7 +117,7 @@
         "alternativeHeadline": "",
         "description": "
       
-        Google site からホームページを移転しました。\nこのサイトは GitHub \u002b Hugo を使っています。Google site からの引っ越し先候補として、気軽にエントリも書けて、ゼミのホームページも運営している NOTE を使おうかと思ったのですが、TeXスタイルで簡単に数式入力が可能な（例えば \\(\\displaystyle\\int_0^\\infty f(z)dz\\) みたいな） こともあり、Hugo を使うことにしました。テンプレートは Anatole を使っています。
+        \u003cp\u003eGoogle site からホームページを移転しました。\u003c\/p\u003e
 
 
       
@@ -173,7 +172,7 @@
 
     ,
         "url" : "https:\/\/httrksk.github.io\/jp\/post\/20210124\/",
-        "wordCount" : "20",
+        "wordCount" : "87",
         "genre" : [ ],
         "keywords" : [ 
       
@@ -396,7 +395,50 @@
       </div><p>Google site からホームページを移転しました。</p>
 <p>このサイトは <a href="https://github.co.jp/">GitHub</a> + <a href="https://gohugo.io/">Hugo</a> を使っています。Google site からの引っ越し先候補として、気軽にエントリも書けて、ゼミのホームページも運営している <a href="https://note.com/">NOTE</a> を使おうかと思ったのですが、TeXスタイルで簡単に数式入力が可能な（例えば \(\displaystyle\int_0^\infty f(z)dz\) みたいな） こともあり、Hugo を使うことにしました。テンプレートは <a href="https://themes.gohugo.io/themes/anatole/">Anatole</a> を使っています。</p>
 <p>10年ぶりぐらいにスタイルシートをいじったりして、とても楽しい移転作業でした。</p>
-</div>
+<h4 id="どうやって作ったのか">どうやって作ったのか？</h4>
+<p>私はこのような作業に関してはまるっきりの初心者なので、同じような方の参考になることがあればとメモ書きを残しておきます。</p>
+<ul>
+<li>
+<p>使ったもの</p>
+<ul>
+<li>
+<p>Mac</p>
+</li>
+<li>
+<p>ターミナル（OSに付属しています）</p>
+</li>
+<li>
+<p>mi（テキストエディタ）</p>
+<p>OS付属のテキストエディタでも良いですが、もう20年くらい使っているので私はこれです。</p>
+</li>
+<li>
+<p>Typora （Markdown 記述用）</p>
+<p>ずっと使っているマークダウンエディタです。上の mi でももちろん大丈夫ですが、Typora での直感的な数式入力はとても便利です。</p>
+</li>
+<li>
+<p>GitHub Desktop（GitHub を使うデスクトップアプリ）</p>
+<p>何が素晴らしいかは<a href="https://ferret-plus.com/8498">ここ</a>などを見てください。</p>
+</li>
+</ul>
+</li>
+<li>
+<p>参考にしたサイト</p>
+<ol>
+<li>
+<p><a href="https://qiita.com/ysdyt/items/a581277dd1312a0e83c3">Hugo + GitHub Pages（独自ドメイン適応）でサイトを作成・公開する</a> by ysydt さん</p>
+</li>
+<li>
+<p><a href="https://yohei-a.hatenablog.jp/entry/20210102/1609593616">Hugo の Academic Template で Portfolio サイトを作って GitHub Pages で公開する</a> by yohei-a さん</p>
+</li>
+<li>
+<p>Hugo のテンプレート作成者の GitHub ページの Issues</p>
+<p>テンプレートをいじるときに直面した問題にかんして、ここにかなり救われました。</p>
+</li>
+</ol>
+<p>基本的に、1. と 2. と <a href="https://gohugo.io/">Hugo オフィシャルページ</a>の community で言われている通りにすれば、テンプレートの exampleSite（Webページの見本みたいなやつ） を自らの GitHub pages として公開するまでは簡単だと思います。</p>
+<p>その後、その exampleSite をいじったりする段階で結構時間がかかります。解説にもあるように <code>hugo server</code> コマンドを打ち込み、任意のwebブラウザで <code>http://localhost:1313</code> を表示させながら、exampleSite をいじると良いです。いじった瞬間に変更が反映されるので、「どこをいじるとどうなるのか」がわかり、1時間ぐらいいじるとだいたいの仕組みがわかると思います。</p>
+</li>
+</ul></div>
     <div class="post-footer">
       <div class="info">
         
