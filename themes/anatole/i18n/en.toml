@@ -5,8 +5,8 @@ other = "category"
 other = "tag"
 
 [reading_time]
-one = "One-minute read"
-other = "{{ .Count }}-minute read"
+one = "1分で読める"
+other = "{{ .Count }} 分で読める"
 
 [page_not_found]
 other = "Page Not Found"
@@ -24,7 +24,7 @@ other = "comments"
 other = "Send"
 
 [read_more]
-other = "Read more"
+other = "もっと読む..."
 
 [name]
 other = "Name"
