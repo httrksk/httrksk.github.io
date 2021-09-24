@@ -71,7 +71,7 @@ a {
 }
 
 blockquote {
-  padding: 0 1em;
+  padding: 0 0.8em;
   border-left: 0.25em solid var(--blockquote-border-color);
   color: var(--blockquote-text-color);
 }
