@@ -5,7 +5,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-user-circle"></i> Keisuke HATTORI
 - Professor, School of Business, Aoyama Gakuin University
-- 4-4-25, Shibuya, Shibuya-ku, Tokyo 1508366, JAPAN
+- Address: 4-4-25, Shibuya, Shibuya-ku, Tokyo 1508366, JAPAN
 - Email: hattori "at" busi.aoyama.ac.jp
 
 #### <i class="fab fa-cloudsmith"></i> Research Areas

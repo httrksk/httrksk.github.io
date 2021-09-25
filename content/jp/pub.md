@@ -1,4 +1,10 @@
+---
+DisableComments: true
+math: true
+---
+
 ### 研究業績 <i class="fas fa-folder-open"></i>
+
 #### <i class="fas fa-check-square"></i> 論文 (査読付き・英文)
 
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)]
@@ -58,3 +64,79 @@
 
 - 日本経済学会2014年度春季大会プログラム委員
 - 日本経済学会2019年度春季大会プログラム委員
+
+#### <i class="fas fa-comment"></i> 学会・研究会 報告
+
+- 2019年11月28日: ミクロ経済学・ゲーム理論研究会（於 京都大学）にて、論文 "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities" を報告
+- 2019年7月9日: International Conference on Public Economic Theory 2019（Pôle Européen de Gestion et d’Economie: Strasbourg, フランス）にて、論文 "Leadership by Showing Generosity" を報告
+- 2019年5月25日: 国際経済・産業ゼミナール（HITS-MJT Seminar on International Economy and Industry: 於 下関市立大学）にて、論文 "Effective Leadership Selection in Complementary Teams"を報告
+- 2019年2月28日: Sapporo Workshop on Industrial Economics （於 札幌学院大学）にて、論文 "Team Production, Synergy Effect, and Leadership" を報告
+- 2019年2月8日: Irvine-Japan Conference on Public Policy（於 University of California, Irvine, アメリカ）にて, 論文 "Team Production, Synergy Effect, and Leadership'' を報告
+- 2019年1月25日: KGIO（関西学院大学産業組織ワークショップ）にて，論文 "Pricing and Diffusion of Durables with Network Externalities" を報告
+- 2018年8月31~9月2日: 45th Annual Conference of the European Association for Research in Industrial Economics（EARIE: Athens, ギリシャ）にて，論文 "Pricing and Diffusion of Durables with Network Externalities" を報告
+- 2018年6月6 ~ 8日: International Conference on Public Economic Theory（Hue, ベトナム）にて，論文 "Pricing and Diffusion of Durables with Network Externalities", "Cost Paradox under Coopetition\*", および "Team Production, Synergy Effect, and Leadership\*" の3論文を報告（\* は共著者による報告）。
+- 2017年8月17日: 産業総合研究所研究会（於 沖縄国際大学）にて、"Efficient Monopolization by an Inefficient Firm" 報告
+- 2017年7月12日: APET 2017（Association for Public Economic Theory 於 パリ第二大学パンテオン・アサス（フランス））にて、 "Profit-maximizing wages under duopoly" 報告
+- 2017年4月22日: 国際経済・産業ゼミナール（HITS-MJT Seminar 於 中央大学）にて、"Pricing for Durable Network Goods with Heterogeneous Beliefs among Consumers" 報告
+- 2017年1月28日:[「マーケティング論・産業組織論・ビジネス経済学」ワークショップ](http://www.google.com/url?q=http%3A%2F%2Fwww.ic.nanzan-u.ac.jp%2FMCENTER%2Fpdf%2F16markting--pos.pdf&sa=D&sntz=1&usg=AFQjCNHPfXG0WIDZ-JvepTANog6qtVMrSA)（於 南山大学）にて、 "Pricing for Durable Network Goods with Heterogeneous Beliefs among Consumers" 報告
+- 2016年12月13日: [The Asia-Pacific Industrial Organisation Society (APIOC: University of Melbourne)](http://www.google.com/url?q=http%3A%2F%2Fapios.org.au%2Fwp-content%2Fuploads%2F2017%2F01%2FAPIOS2016_Final_Program.pdf&sa=D&sntz=1&usg=AFQjCNH-9izwjPUrhEQoLI-C8ebQZMkjIA) にて、"Committing to a Future Price by Selling to the Poor" 報告
+- 2016年10月15日: IO/Trade Workshop (国立台湾大学 National Taiwan University) にて、論文 "How to Commit to a Future Price" 報告
+- 2016年10月2日:国際経済・産業ゼミナール（HITS-MJT Seminar on International Economy and Industry) にて、"Efficient Monopolization by an Inefficient Firm" 報告
+- 2016年9月16日:[産業組織・競争政策研究会](http://www.google.com/url?q=http%3A%2F%2Fnorick.sakura.ne.jp%2Fiocp%2Fiocp.html&sa=D&sntz=1&usg=AFQjCNH0ZiB9iX8vjmsPMZxxIW9efu-5Wg)（於 信州大学）にて、 "Efficient Monopolization by an Inefficient Firm" 報告
+- 2016年2月5日: 12th Irvine-Japan Conference on Public Policy (於 University of California, Irvine) にて、"How to commit to a future price" 報告
+- 2015年10月29日: [国際経済学セミナー（於 京都大学）](http://www.google.com/url?q=http%3A%2F%2Fwww.econ.kyoto-u.ac.jp%2F~jinji%2FProject%2Fseminar.html&sa=D&sntz=1&usg=AFQjCNEQEnXcv75OTMqzBlNmYmvnNtLiQQ)にて、"Optimal Trade Policy under Endogenous Sequence of Firms' Price and Quantity Choices" 報告
+- 2015年10月18日: 国際経済・産業ゼミナール（HITS-MJT Seminar, 於 高知大学）にて，"Optimal Trade Policy under Endogenous Sequences of Firms' Price and Quantity Choices" 報告
+- 2015年04月25日: [国際経済・産業ゼミナール（HITS-MJT Seminar, 於 武蔵大学）](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Feconhitsj%2F&sa=D&sntz=1&usg=AFQjCNHmbM4LQAyhJV1p9DFlgSV6DdiFwQ)にて，"Knowledge Sharing and Student Grouping" 報告
+- 2015年02月06日: 11th Irvine-Japan Conference on Public Policy (於 University of California, Irvine) にて，"Profit-maximizing Wages under Duopoly" 報告
+- 2014年11月8日: [MAEDA (Meeting on Applied Economics and Data Analysis: 於 大阪経済大学）](http://www.google.com/url?q=http%3A%2F%2Fsites.google.com%2Fsite%2Fappliedeconomicsdataanalysis%2F04&sa=D&sntz=1&usg=AFQjCNEreCt2IiZ5_gPurhz-wKRhBzSAnQ)にて，"Profit-maximizing Wages under Duopoly" 報告
+- 2014年10月05日: HITS-MJT Seminar (国際経済・産業ゼミナール：於 高知県立大学）にて，"Free Entry and Social Inefficiency under Co-opetition" 報告
+- 2014年08月30日: [EARIE2014 Milan (於 Bocconi University)](http://www.google.com/url?q=http%3A%2F%2Fwww.earie2014.org%2F&sa=D&sntz=1&usg=AFQjCNHLVR6xN0B_3jdSwRNguFSPpwC0Vw) にて， "How to Commit to a Future Price" 報告
+- 2014年6月26日：ミクロ経済学・ゲーム理論研究会（於 京都大学）にて "Profit-maximizing Wages under Duopoly" 報告
+- 2014年4月26日：国際経済・産業ゼミナール（於 武蔵大学）にて "Profit-maximizing Wages under Duopoly" 報告
+- 2014年1月25日：日本国際経済学会関西支部研究会にて "How to Commit to a Future Price" 報告
+- 2014年1月16日：成蹊大学セミナー（於 成蹊大学） にて "Profit Maximizing Wages under Duopoly" 報告
+- 2013年12月20日: 経済学セミナー（於 大東文化大学）にて "Profit Maximizing Wages under Duopoly" 報告
+- 2013年12月7日: [制度論研究会（於 大阪経済大学）](http://www.google.com/url?q=http%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNGTMy-0GKzXJGJhF-Ji6la_RoPQtg)にて "How to Commit to a Future Price" 報告
+- 2013年11月20日: [産業組織研究会（於 東京大学）](http://www.google.com/url?q=http%3A%2F%2Fwww.iss.u-tokyo.ac.jp%2F~matsumur%2FIOWJA.html&sa=D&sntz=1&usg=AFQjCNHBEcbL6vD9LNRvMjsfa7j0_gCJWA)にて "How to Commit to a Future Price" 報告
+- 2013年10月27日: [国際経済・産業ゼミナール（於 福島大学）](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Feconhitsj%2F&sa=D&sntz=1&usg=AFQjCNHmbM4LQAyhJV1p9DFlgSV6DdiFwQ)にて "How to Commit to a Future Price" 報告
+- 2013年3月22日: 2013 Midwest Economics Association Annual Meeting (於 Sheraton Columbus Hotel at Capitol Square, Columbus, OH) にて " "Free Entry and Social Inefficiency under Co-opetition" 報告 (Sssion 3G: Industrial Organization II)
+- 2013年2月8日: 9th Irvine-Japan Conference on Public Policy （於 University of California, Irvine) にて， "Knowledge Transfer and Student Grouping" 報告
+- 2012年6月24日: 日本経済学会 春季大会（於 北海道大学）にて，"When Government Misleads US: Sending Misinformation as Protectionist Devices" 報告
+- 2012年6月: PET12 Taipei: 13the Annual Conference of the Association for Public Economic Theory (APET) (於 Academia Sinica) にて "Who Benefits from Misleading Advertising" 報告
+- 2012年3月: カンファレンス『寡占と競争のダイナミクス』（於 県立淡路夢舞台国際会議場）にて "Who Benefits from Misleading Advertising?" 報告
+- 2012年1月: Meeting on Applied Economics and Data Analysis (MAEDA: 於 国立環境研究所) にて "When Government Misleads US: Sending Misinformation as Protectionist Devices" 報告
+- 2011年11月: 日本経済学会 秋季大会（於 筑波大学）にて "Endogenous Timing in Strategic Environmental Policymaking" 報告
+- 2011年7月: 日本国際経済学会関西支部研究会にて "When Government Misleads US: Sending Misinformation as Protectionist Devices" 報告
+- 2011年6月: [EAERE 2011 Rome: 18th Annual Conference of the European Association of Environmental and Resource Economists](http://www.google.com/url?q=http%3A%2F%2Fwww.eaere2011.org%2F&sa=D&sntz=1&usg=AFQjCNHbOqodWQFP7S10E9-Ekcw_HiNAQQ) (於 University of Rome Tor Vergata, Italy) にて ["Environmental Innovation and Policy Harmonization in International Oligopoly"](http://www.google.com/url?q=http%3A%2F%2Fwww.webmeets.com%2FEAERE%2F2011%2Fprog%2Fviewsession.asp%3Fsid%3D144&sa=D&sntz=1&usg=AFQjCNFsRUutyg3-b-uMhpoX3yxUsyfawQ) 報告
+- 2011年5月: [日本経済学会 春季大会](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2011s%2Findex.html&sa=D&sntz=1&usg=AFQjCNHLt7tFYPd0kR_IsVXbX8-m_Fxsqg)（於 熊本学園大学）にて "Misleading Advertising in Duopoly" 報告
+- 2011年3月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて "Misleading Advertising in Duopoly" 報告
+- 2010年12月: [応用地域学会 第24回研究発表大会](https://docs.google.com/viewer?url=http://www.geocities.jp/arsc_nagoya/program.pdf)（於 名古屋大学）にて "Firm Incentives for Environmental R&D under Non-cooperative and Cooperative Policies" 報告
+- 2010年6月: [日本経済学会 春季大会](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2010s%2Findex.html&sa=D&sntz=1&usg=AFQjCNHu6us31bfg8B0b3JfyaSprOjaM7g)（於 千葉大学）にて "Firm Incentives for Environmental R&D under Non-cooperative and Cooperative Policies" 報告
+- 2010年1月: [環境経済学セミナー](http://www.google.com/url?q=http%3A%2F%2Fwww.k-uni.jp%2Fenvecon-seminar%2F&sa=D&sntz=1&usg=AFQjCNHvV5Ck9aOkUuZW0r3EIerUxtWSaA)（京都大学）にて "Firm Incentives for Environmental R&D under Non-cooperative and Cooperative Policies" 報告
+- 2008年9月: [日本経済学会 秋季大会](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2008f%2Findex.html&sa=D&sntz=1&usg=AFQjCNGG-501hK4lNEPPSPUFLVroUK5xZg)（於 近畿大学）にて "Partner Choices for Strategic Alliances in Network Markets" 報告
+- 2008年5月: [日本経済学会 春季大会](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2008s%2Findex.html&sa=D&sntz=1&usg=AFQjCNEW50DTpAOYdZZyihsBaBzAq4KUiQ)（於 東北大学）にて "Strategic Voting for Noncooperative Environmental Policies in Open Economies" 報告
+- 2006年11月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて "Endogenous Environmental Innovation and the First-Best Policy Mix" 報告
+- 2005年6月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて "Is Technological Progress Pareto-Improving for a World with Global Public Goods" 報告
+- 2004年6月: 日本経済学会 春季大会（於 明治学院大学）にて "Should the Peacekeeping Contributions Be Military or Monetary?" 報告
+- 2004年6月: [理論・計量経済学セミナー](http://www.google.com/url?q=http%3A%2F%2Fwww.eco.osakafu-u.ac.jp%2F~murasawa%2Fpukiwiki%2Findex.php%3F%CD%FD%CF%C0%A1%A6%B7%D7%CE%CC%B7%D0%BA%D1%B3%D8%A5%BB%A5%DF%A5%CA%A1%BC%23ueb3df42&sa=D&sntz=1&usg=AFQjCNGpnVUAECIFSSHMt-irpj1xIQA4Xw)（大阪府立大学）にて "Should the Peacekeeping Contributions Be Military or Monetary" 報告
+- 2003年10月: 日本経済学会 秋季大会（於 明治大学）にて "Private Provision of International Public Goods with Strategic Investment" 報告
+
+  
+
+#### <i class="fas fa-comments"></i> 学会・研究会 討論
+
+- 2020年11月22日:  日本応用経済学会（オンライン）にて 平尾 盛史 氏、善如 悠介 氏の論文 "Incumbent Repositioning with Performance Difference"の討論者を担当
+- 2020年6月20日: 日本応用経済学会（オンライン）にて 角田 侑史 氏、善如 悠介 氏の論文 "e-コマース型プラットフォームにおける情報の透明性とそれが売手やオフライン小売業者に与える影響" の討論者を担当
+- 2019.06.16: 応用経済学会2019年度春季大会（於 南山大学）にて、北村紘 氏の報告 "Exclusive Contracts in Durable Goods Markets" の討論者を担当
+- 2015年05月24日: 日本経済学会 春季大会（於 新潟大学）の[「国際貿易・直接投資」セッション](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2015s%2Fprogram2-2.html&sa=D&sntz=1&usg=AFQjCNEogC05uYCMBruZnt5R2JEbpJP0mw)にて、溝口 佳宏 氏、神事 直人 氏の論文「自由貿易協定の原産地規則とFDIを通じた技術スピルオーバー：国際複占競争モデルによる分析」の討論者を担当
+- 2014年2月7日: The 10th Irvine-Japan Conference on Public Policy (於 University of California, Ivine) にて、寺井 公子 氏の報告 "Budget under Delegation" の討論者を担当
+- 2012年6月23日: 日本経済学会 春季大会（於 北海道大学）にて、福山 博文 氏、川崎 晃央 氏、内藤 徹 氏の報告 "Optimal privatization and environmental regulation in a differentiated mixed oligopoly" の討論者を担当
+- 2011年12月: 制度論研究会（於 大阪経済大学）にて、吉川 丈 氏の報告 "Is Social Welfare Increased by Private Firm Entry?" の討論者を担当
+- 2011年6月: [EAERE 2011 Rome: 18th Annual Conference of the European Association of Environmental and Resource Economists](http://www.google.com/url?q=http%3A%2F%2Fwww.eaere2011.org%2F&sa=D&sntz=1&usg=AFQjCNHbOqodWQFP7S10E9-Ekcw_HiNAQQ) (於 University of Rome Tor Vergata, Italy) にて、University of Leicester, Maria J. Gil-Molto 氏の報告 "Strictness of Environmental Policy and Investment in Abatement Technologies" の討論者を担当
+- 2011年5月: [日本国際経済学会関西支部研究会](http://www.google.com/url?q=http%3A%2F%2Fwwwsoc.nii.ac.jp%2Fjsie%2Fkansai_seminar_2011.html&sa=D&sntz=1&usg=AFQjCNGauS-y3LYI5Jm2hSMZpRKnxH10Kg) にて、川越 吉孝 氏の報告 "Environmental Regulations on International Transportation" の討論者を担当
+- 2010年12月: [GLOPE-II International Symposium Political Economy of Institutions and Expectations II](http://www.google.com/url?q=http%3A%2F%2Fglobalcoe-glope2.jp%2Fsympo%2F20101218.html&sa=D&sntz=1&usg=AFQjCNHe1Ig8rFg3ssnqlvHAVIUVIH10Xw) （於 早稲田大学）にて，寺井 公子 氏の報告 Strategic Voting on Environmental Policy Making: The Case for "Political Race to the Top" (joint with Yukihiro Nishimura) の討論者を担当
+- 2010年6月: [日本国際経済学会 第52回関西支部総会](http://www.google.com/url?q=http%3A%2F%2Fwwwsoc.nii.ac.jp%2Fjsie%2FKansai_AM%2F1006_AM_Wakayama%2FWakayama_Program.html&sa=D&sntz=1&usg=AFQjCNHX2rKAKjA6o3KTgO_DzJgqk4ss7w)（於 和歌山大学）にて、東田 啓作 氏の報告 "Environmental Standards, Quality of Vertically Differentiated Products, and the Global Environment" の討論者を担当
+- 2010年5月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて、東 裕三 氏の報告 「中央政府と地方政府における公共財供給の非効率性」の討論者を担当
+- 2008年10月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて、池田 剛士 氏の報告 "Third-Degree Price Discrimination, Quality Choice, and Welfare" の討論者を担当
+- 2007年5月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて、李 態妍 氏の報告 "A General Equilibrium Model with Tradable Emission Permits : Efficiency and Coase Property" の討論者を担当
+- 2006年7月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて、利光 強 氏の報告 "Effect of a Tariff on the Environment and Welfare: The Case of an Environmentally Differentiated Duopoly in a Green Market" の討論者を担当
