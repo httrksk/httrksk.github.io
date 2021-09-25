@@ -18,7 +18,7 @@ author = "Keisuke Hattori"
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-798651-12"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
