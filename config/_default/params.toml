@@ -64,6 +64,6 @@ title = "Google Scholar"
 url = "https://scholar.google.co.jp/citations?user=BQJqs3kAAAAJ&hl=ja"
 
 [[socialIcons]]
-icon = "fas fa-file"
+icon = "fas fa-file-signature"
 title = "Note"
 url = "https://note.com/hattorizemi"
