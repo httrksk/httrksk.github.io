@@ -4,7 +4,7 @@ title = "Keisuke Hattori"
 theme = "anatole"
 summaryLength = 50
 enableEmoji = true
-enableRobotsTXT = true
+enableRobotsTXT = false
 canonifyurls = true
 publishDir = "docs"
 
