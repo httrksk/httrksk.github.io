@@ -3,7 +3,7 @@
 #### <i class="fas fa-user-circle"></i> 基本情報
 
 - 服部 圭介（はっとり けいすけ）
-- アドレス（職場）: 〒150-8366 東京都渋谷区渋谷4-4-25 青山学院大学 経営学部
+- アドレス（職場）:  〒150-8366 東京都渋谷区渋谷4-4-25 青山学院大学 経営学部
 - メール: hattori "at" busi.aoyama.ac.jp
 
 #### <i class="fas fa-chalkboard-teacher"></i> 職歴（常勤）
@@ -30,3 +30,6 @@
 - 2000年 3月 : 関西学院大学 経済学部 卒業 （学士（経済学））
 - 1996年 3月：大阪府立 豊中高等学校 卒業
 
+#### <i class="fas fa-ghost"></i> 好きなもの
+
+​	<img src="favs.png" alt="favs" style="zoom:30%;" />
