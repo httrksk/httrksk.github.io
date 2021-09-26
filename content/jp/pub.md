@@ -27,15 +27,15 @@ math: true
 
 #### <i class="fas fa-check-square"></i> 論文（その他・紀要など）
 
-- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. 
+- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, Springer. 2015. [[LINK](https://www.springer.com/gp/book/9784431551263)] 
 - 「戦略的環境政策の政治経済学的アプローチ」, 大阪経大論集, 60, 225-239, 2010. [[Link PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)]
 - "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
-- 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. 
+- 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. [[LINK](https://ci.nii.ac.jp/naid/40005735643)]
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
-- "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
-- "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).
+- "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada). [[Link PDF](https://mpra.ub.uni-muenchen.de/104640/9/MPRA_paper_104640.pdf)]
+- "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo). [[Link PDF](https://mpra.ub.uni-muenchen.de/89893/9/MPRA_paper_89893.pdf)]
 - "Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.
 - "Should non-genuine products be expelled from markets?", Kwansei Gakuin University Discussion Paper Series, No. 126, March 2015. (Co-authored with Keisaku Higashida.)
 - "How to Commit to a Future Price", Working Papers 131402, University of California-Irvine, Department of Economics. (Co-authored with Amihai Glazer.)
