@@ -7,9 +7,9 @@ math: true
 
 #### <i class="fas fa-check-square"></i> 論文 (査読付き・英文)
 
-- "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2Fjite-2020-0037&sa=D&sntz=1&usg=AFQjCNHKfScBAmjbNZIVaa8C0A0UpQMKFg)]
-- "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1628%2F093245617X14996661407767&sa=D&sntz=1&usg=AFQjCNEZf98jEBxRB6o3V0ExyU1BJdJBmQ)]
-- "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017. [[LINK](http://www.google.com/url?q=http%3A%2F%2Fdx.doi.org%2F10.1016%2Fj.econmod.2017.04.024&sa=D&sntz=1&usg=AFQjCNEnHwBQ6EkiNutpWeBY6ySVIsu37Q)]
+- "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
+- "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/093245617X14996661407767)]
+- "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017. [[LINK](https://doi.org/10.1016/j.econmod.2017.04.024)]
 - "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics (Zeitschrift für Nationalökonomie), 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.) [[LINK](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00712-015-0469-x&sa=D&sntz=1&usg=AFQjCNEi3paOY7pZTi4_x1SU1YTJmxJ-mg)]
 - "Who Benefits from Misleading Advertising?", Economica, 82(328), 613-643, 2015. (Co-authored with Keisaku Higashida.) [[LINK](http://www.google.com/url?q=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fecca.12149%2Fabstract&sa=D&sntz=1&usg=AFQjCNEmYQSbFn5OE5RYf9zkvENwV1-m2A)]
 - "Within-group Cooperation and Between-group Externalities in the Provision of Public Goods", International Tax and Public Finance, 22(2), 252-273, 2015. [[LINK](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10797-014-9308-1&sa=D&sntz=1&usg=AFQjCNEK946GBDM8PSrz1sANDIc8UWCclg)]
@@ -117,9 +117,9 @@ math: true
 - 2008年9月: [日本経済学会 秋季大会](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2008f%2Findex.html&sa=D&sntz=1&usg=AFQjCNGG-501hK4lNEPPSPUFLVroUK5xZg)（於 近畿大学）にて "Partner Choices for Strategic Alliances in Network Markets" 報告
 - 2008年5月: [日本経済学会 春季大会](http://www.google.com/url?q=http%3A%2F%2Fwww.jeameetings.org%2F2008s%2Findex.html&sa=D&sntz=1&usg=AFQjCNEW50DTpAOYdZZyihsBaBzAq4KUiQ)（於 東北大学）にて "Strategic Voting for Noncooperative Environmental Policies in Open Economies" 報告
 - 2006年11月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて "Endogenous Environmental Innovation and the First-Best Policy Mix" 報告
-- 2005年6月: [制度論研究会](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Finstitutionecon%2F&sa=D&sntz=1&usg=AFQjCNHFzbwSFwG2nREeqJaZjpnDJZFFyg)（於 大阪経済大学）にて "Is Technological Progress Pareto-Improving for a World with Global Public Goods" 報告
+- 2005年6月: 制度論研究会（於 大阪経済大学）にて "Is Technological Progress Pareto-Improving for a World with Global Public Goods" 報告
 - 2004年6月: 日本経済学会 春季大会（於 明治学院大学）にて "Should the Peacekeeping Contributions Be Military or Monetary?" 報告
-- 2004年6月: [理論・計量経済学セミナー](http://www.google.com/url?q=http%3A%2F%2Fwww.eco.osakafu-u.ac.jp%2F~murasawa%2Fpukiwiki%2Findex.php%3F%CD%FD%CF%C0%A1%A6%B7%D7%CE%CC%B7%D0%BA%D1%B3%D8%A5%BB%A5%DF%A5%CA%A1%BC%23ueb3df42&sa=D&sntz=1&usg=AFQjCNGpnVUAECIFSSHMt-irpj1xIQA4Xw)（大阪府立大学）にて "Should the Peacekeeping Contributions Be Military or Monetary" 報告
+- 2004年6月: 理論・計量経済学セミナー（大阪府立大学）にて "Should the Peacekeeping Contributions Be Military or Monetary" 報告
 - 2003年10月: 日本経済学会 秋季大会（於 明治大学）にて "Private Provision of International Public Goods with Strategic Investment" 報告
 
   
