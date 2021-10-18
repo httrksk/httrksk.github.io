@@ -34,6 +34,7 @@ math: true
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
+- "A Paradox of Coalition Building in Public Good Provision", CESifo Working Paper No. 9354. (Co-authored with Wolfgang Buchholz) [[Link](https://www.cesifo.org/node/65747)]
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada). [[Link PDF](https://mpra.ub.uni-muenchen.de/104640/9/MPRA_paper_104640.pdf)]
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo). [[Link PDF](https://mpra.ub.uni-muenchen.de/89893/9/MPRA_paper_89893.pdf)]
 - "Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.
