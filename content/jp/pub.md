@@ -69,6 +69,7 @@ math: true
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
+- 2022年6月9日: International Conference of Public Economic Theory (PET 2022, フランス) にて、論文 “A Paradox of Coalition Building in Public Good Provision” を報告
 - 2020年3月20日: プラットフォームと流通の研究会（於 神戸大学）にて、論文 "A Paradox of Coalition Building in Public Good Provision" および "Price Collusion with Asymmetric Costs" を報告
 - 2019年11月28日: ミクロ経済学・ゲーム理論研究会（於 京都大学）にて、論文 "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities" を報告
 - 2019年7月9日: International Conference on Public Economic Theory 2019（Pôle Européen de Gestion et d’Economie: Strasbourg, フランス）にて、論文 "Leadership by Showing Generosity" を報告
