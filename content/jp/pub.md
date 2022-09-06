@@ -25,8 +25,9 @@ math: true
 - Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005. [[国会図書館データベースへのリンク](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f&sa=D&sntz=1&usg=AFQjCNE_J_Zgor_w-umEhLubA2bEXvUGNw)]
 - "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003.  [[LINK](http://www.google.com/url?q=http%3A%2F%2Fwww.accessecon.com%2Fpubs%2Feb%2F2003%2Fvolume8%2FEB-02H40004A.pdf&sa=D&sntz=1&usg=AFQjCNGBLZdMFKUGnJ-Vo2_sQTI924w8vg)]
 
-#### <i class="fas fa-check-square"></i> 論文（その他・紀要など）
+#### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿など）
 
+- 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
 - Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, Springer. 2015. [[LINK](https://www.springer.com/gp/book/9784431551263)] 
 - 「戦略的環境政策の政治経済学的アプローチ」, 大阪経大論集, 60, 225-239, 2010. [[Link PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)]
 - "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
@@ -69,6 +70,8 @@ math: true
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
+- 2022年9月5日: 産業組織・競争政策研究会（於 信州大学）にて、論文 "Profit-sharing vs price-fixing collusions with heterogeneous firms" 報告
+- 2022年8月27日: 49th Annual Conference of the European Association for Research in Industrial Economics (EARIE 2022 Vienna: オーストリア) にて、論文 "Profit-sharing vs price-fixing collusions with heterogeneous firms" 報告
 - 2022年6月9日: International Conference of Public Economic Theory (PET 2022, フランス) にて、論文 “A Paradox of Coalition Building in Public Good Provision” を報告
 - 2020年3月20日: プラットフォームと流通の研究会（於 神戸大学）にて、論文 "A Paradox of Coalition Building in Public Good Provision" および "Price Collusion with Asymmetric Costs" を報告
 - 2019年11月28日: ミクロ経済学・ゲーム理論研究会（於 京都大学）にて、論文 "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities" を報告
