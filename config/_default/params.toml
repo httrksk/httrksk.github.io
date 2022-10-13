@@ -67,3 +67,8 @@ url = "https://scholar.google.co.jp/citations?user=BQJqs3kAAAAJ&hl=ja"
 icon = "fas fa-file-signature"
 title = "Note"
 url = "https://note.com/hattorizemi"
+
+[[socialIcons]]
+icon = "fab fa-square-twitter"
+title = "Twitter"
+url = "https://twitter.com/2fkaramegusuri"
