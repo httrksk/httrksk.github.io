@@ -44,9 +44,9 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 [[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/keisuke-hattori-889a4419b/"
+icon = "fab fa-twitter-square"
+title = "Twitter"
+url = "https://twitter.com/2fkaramegusuri"
 
 [[socialIcons]]
 icon = "fas fa-lightbulb"
@@ -68,7 +68,3 @@ icon = "fas fa-file-signature"
 title = "Note"
 url = "https://note.com/hattorizemi"
 
-[[socialIcons]]
-icon = "fab fa-square-twitter"
-title = "Twitter"
-url = "https://twitter.com/2fkaramegusuri"
