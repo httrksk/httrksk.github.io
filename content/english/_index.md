@@ -17,6 +17,8 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Published Papers (Refereed)
 
+- "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, Forthcoming. (Co-authored with Keisaku Higashida.)
+
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.)
 - "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) 
 - "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017.

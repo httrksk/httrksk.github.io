@@ -7,6 +7,7 @@ math: true
 
 #### <i class="fas fa-check-square"></i> 論文 (査読付き・英文)
 
+- "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, Forthcoming. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1007/s00712-022-00808-5)]
 - "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
 - "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/093245617X14996661407767)]
 - "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017. [[LINK](https://doi.org/10.1016/j.econmod.2017.04.024)]
