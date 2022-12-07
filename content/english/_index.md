@@ -17,30 +17,30 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Published Papers (Refereed)
 
-- "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, Forthcoming. (Co-authored with Keisaku Higashida.)
+1. "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, Forthcoming. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1007/s00712-022-00808-5)]
 
-- "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.)
-- "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) 
-- "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017.
-- "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics (Zeitschrift für Nationalökonomie), 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.)
-- "Who Benefits from Misleading Advertising?", Economica, 82(328), 613-643, 2015. (Co-authored with Keisaku Higashida.)
-- "Within-group Cooperation and Between-group Externalities in the Provision of Public Goods", International Tax and Public Finance, 22(2), 252-273, 2015. 
-- "Trade Liberalization and Environmental Regulation on International Transportation", Japanese Economic Review, 65(4), 468-482. 2014. (Co-authored with Kenzo Abe and Yoshitaka Kawagoshi.)
-- "Misleading Advertising and Minimum Quality Standards", Information Economics and Policy, 28, 1-14, 2014. (Co-authored with Keisaku Higashida.)
-- "Complementary Alliance in Composite Good Markets with Network Structure", Manchester School, 82(1), 33-51, 2014 (Co-authored with Ming-Hsin Lin.)
-- "Endogenous Timing in Strategic Environmental Policymaking", Environmental and Resource Economics, 55(2), 199-215, 2013. (Co-authored with Takahiro Kitamura.)
-- "Environmental Innovation and Policy Harmonization in International Oligopoly", Environment and Development Economics, 18, 162-183, 2013. [Online Appendix]
-- "Misleading Advertising in Duopoly", Canadian Journal of Economics, 45, 1154-1187, 2012. (Co-authored with Keisaku Higashida.)
-- "Alliance Partner Choice in Markets with Vertical and Horizontal Externalities", B.E. Journal of Theoretical Economics, 11, Issue 1 (Topics), Article 13, 2011. (Co-authored with Ming-Hsin Lin.)
-- "Strategic Voting for Noncooperative Environmental Policies in Open Economies", Environmental and Resource Economics, 46, 459-474, 2010.
-- "Is Technological Progress Pareto-Improving for a World with Global Public Goods?", Journal of Economics (Zeitschrift für Nationalökonomie), 84, 135-156, 2005.
-- Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005.
-- "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003.
+2. "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
+3. "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/093245617X14996661407767)]
+4. "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017. [[LINK](https://doi.org/10.1016/j.econmod.2017.04.024)]
+5. "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics (Zeitschrift für Nationalökonomie), 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.) [[LINK](https://doi.org/10.1007/s00712-015-0469-x)]
+6. "Who Benefits from Misleading Advertising?", Economica, 82(328), 613-643, 2015. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1111/ecca.12149)]
+7. "Within-group Cooperation and Between-group Externalities in the Provision of Public Goods", International Tax and Public Finance, 22(2), 252-273, 2015. [[LINK](https://doi.org/10.1007/s10797-014-9308-1)]
+8. "Trade Liberalization and Environmental Regulation on International Transportation", Japanese Economic Review, 65(4), 468-482. 2014. (Co-authored with Kenzo Abe and Yoshitaka Kawagoshi.) [[LINK](https://doi.org/10.1111/jere.12044)]
+9. "Misleading Advertising and Minimum Quality Standards", Information Economics and Policy, 28, 1-14, 2014. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1016/j.infoecopol.2014.04.004)]
+10. "Complementary Alliance in Composite Good Markets with Network Structure", Manchester School, 82(1), 33-51, 2014 (Co-authored with Ming-Hsin Lin.) [[LINK](https://doi.org/10.1111/j.1467-9957.2012.02335.x)]
+11. "Endogenous Timing in Strategic Environmental Policymaking", Environmental and Resource Economics, 55(2), 199-215, 2013. (Co-authored with Takahiro Kitamura.) [[LINK](https://doi.org/10.1007/s10640-012-9622-y)]
+12. "Environmental Innovation and Policy Harmonization in International Oligopoly", Environment and Development Economics, 18, 162-183, 2013. [[Online Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1355770X1200040X/resource/name/S1355770X1200040Xsup001.pdf)] [[LINK](https://doi.org/10.1017/S1355770X1200040X)]
+13. "Misleading Advertising in Duopoly", Canadian Journal of Economics, 45, 1154-1187, 2012. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1111/j.1540-5982.2012.01730.x)]
+14. "Alliance Partner Choice in Markets with Vertical and Horizontal Externalities", B.E. Journal of Theoretical Economics, 11, Issue 1 (Topics), Article 13, 2011. (Co-authored with Ming-Hsin Lin.) [[LINK](https://doi.org/10.2202/1935-1704.1732)]
+15. "Strategic Voting for Noncooperative Environmental Policies in Open Economies", Environmental and Resource Economics, 46, 459-474, 2010. [[LINK](https://doi.org/10.1007/s10640-010-9349-6)]
+16. "Is Technological Progress Pareto-Improving for a World with Global Public Goods?", Journal of Economics (Zeitschrift für Nationalökonomie), 84, 135-156, 205. [[LINK](https://doi.org/10.1007/s00712-004-0106-6)]
+17. Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005. [[National Diet Library, JAPAN: LINK](https://iss.ndl.go.jp/books/R100000002-I000007781437-00?ar=4e1f&locale=en)]
+18. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
 #### <i class="fas fa-check-square"></i> Published Papers (Others)
 
-- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. 
-- "Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), Osaka Keidai Ronshu, 60, 225-239, 2010.
+- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. [[LINK](https://link.springer.com/book/10.1007/978-4-431-55127-0)]
+- "Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), Osaka Keidai Ronshu, 60, 225-239, 2010. [[LINK PDF](https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_060_005_225-239.pdf)]
 - "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
 - "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
 
@@ -51,7 +51,6 @@ author = "Hugo Authors"
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).
 - "Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.
-- "Should non-genuine products be expelled from markets?", Kwansei Gakuin University Discussion Paper Series, No. 126, March 2015. (Co-authored with Keisaku Higashida.)
 - "How to Commit to a Future Price", Working Papers 131402, University of California-Irvine, Department of Economics. (Co-authored with Amihai Glazer.)
 - "When Government Misleads US: Sending Misinformation as Protectionist Devices", Kwansei Gakuin University Discussion Paper Series, No. 75, August 2011. [Link PDF] (Co-authored with Keisaku Higashida.)
 - "Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007. R&R
