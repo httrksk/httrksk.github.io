@@ -36,7 +36,7 @@ math: true
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
-- "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042 posted 12 Apr 2023. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117042/1/20230412WP.pdf) ]
+- "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042 posted 12 Apr 2023. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]
 - "Profit-Sharing vs Price-Fixing Collusion with Heterogeneous Firms", MPRA Paper No. posted 24 Nov 2021. [[Link PDF](https://mpra.ub.uni-muenchen.de/110800/1/MPRA_paper_110800.pdf)]
 - "A Paradox of Coalition Building in Public Good Provision", CESifo Working Paper No. 9354. (Co-authored with Wolfgang Buchholz) [[Link](https://www.cesifo.org/node/65747)]
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada). [[Link PDF](https://mpra.ub.uni-muenchen.de/104640/9/MPRA_paper_104640.pdf)]
