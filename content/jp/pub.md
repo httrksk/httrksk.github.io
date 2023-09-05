@@ -51,11 +51,11 @@ math: true
 #### <i class="fas fa-comment-dollar"></i> 研究助成など
 
 - 2019 - 2023年
-  - 科学研究費 基盤 C（研究代表者）『多市場間の相互作用と企業の戦略的行動に関する経済分析』（課題番号19K01639）
+  - 科学研究費 基盤 C（研究代表者）『[多市場間の相互作用と企業の戦略的行動に関する経済分析](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K01639/)』（課題番号19K01639）
 - 2013年 - 2018年 
-  - 科学研究費 基盤C（研究代表者）『貿易・環境政策としての情報操作、および品質規制に関する理論研究』（課題番号：25380343）
+  - 科学研究費 基盤C（研究代表者）『[貿易・環境政策としての情報操作、および品質規制に関する理論研究](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25380343/)』（課題番号：25380343）
 - 2011年 - 2014年
-  - 科学研究費 基盤B（研究分担者）『市場構造、所有権と責任に関する制度と環境規制の経済分析』（課題番号：23330087）
+  - 科学研究費 基盤B（研究分担者）『[市場構造、所有権と責任に関する制度と環境規制の経済分析](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23330087/)』（課題番号：23330087）
 - 2010年 - 2012年
   - 野村財団 研究助成 （研究分担者）『環境規制・安全性基準と製品情報、消費者認識、およびグリーンマーケットの経済分析』
 - 2010年 - 2013年
@@ -67,8 +67,8 @@ math: true
 
 #### <i class="fas fa-bone"></i> その他
 
-- 日本経済学会2014年度春季大会プログラム委員
-- 日本経済学会2019年度春季大会プログラム委員
+- 日本経済学会 大会プログラム委員: 2014年度春、2019年度春
+- 科学研究費補助金 審査委員（審査第四部会）: 2020年度
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
@@ -203,7 +203,7 @@ math: true
 - 2011年5月: 日本国際経済学会関西支部研究会にて、川越 吉孝 氏の報告 "Environmental Regulations on International Transportation" の討論者を担当
 - 2010年12月: GLOPE-II International Symposium Political Economy of Institutions and Expectations II（於 早稲田大学）にて，寺井 公子 氏の報告 Strategic Voting on Environmental Policy Making: The Case for "Political Race to the Top" (joint with Yukihiro Nishimura) の討論者を担当
 - 2010年6月: 日本国際経済学会 第52回関西支部総会（於 和歌山大学）にて、東田 啓作 氏の報告 "Environmental Standards, Quality of Vertically Differentiated Products, and the Global Environment" の討論者を担当
-- 2010年5月: [制度論研究会](https://sites.google.com/site/institutionecon/)（於 大阪経済大学）にて、東 裕三 氏の報告 「中央政府と地方政府における公共財供給の非効率性」の討論者を担当
-- 2008年10月: [制度論研究会](https://sites.google.com/site/institutionecon/)（於 大阪経済大学）にて、池田 剛士 氏の報告 "Third-Degree Price Discrimination, Quality Choice, and Welfare" の討論者を担当
-- 2007年5月: [制度論研究会](https://sites.google.com/site/institutionecon/)（於 大阪経済大学）にて、李 態妍 氏の報告 "A General Equilibrium Model with Tradable Emission Permits : Efficiency and Coase Property" の討論者を担当
-- 2006年7月: [制度論研究会](https://sites.google.com/site/institutionecon/)（於 大阪経済大学）にて、利光 強 氏の報告 "Effect of a Tariff on the Environment and Welfare: The Case of an Environmentally Differentiated Duopoly in a Green Market" の討論者を担当
+- 2010年5月: 制度論研究会（於 大阪経済大学）にて、東 裕三 氏の報告 「中央政府と地方政府における公共財供給の非効率性」の討論者を担当
+- 2008年10月: 制度論研究会（於 大阪経済大学）にて、池田 剛士 氏の報告 "Third-Degree Price Discrimination, Quality Choice, and Welfare" の討論者を担当
+- 2007年5月: 制度論研究会（於 大阪経済大学）にて、李 態妍 氏の報告 "A General Equilibrium Model with Tradable Emission Permits : Efficiency and Coase Property" の討論者を担当
+- 2006年7月: 制度論研究会（於 大阪経済大学）にて、利光 強 氏の報告 "Effect of a Tariff on the Environment and Welfare: The Case of an Environmentally Differentiated Duopoly in a Green Market" の討論者を担当
