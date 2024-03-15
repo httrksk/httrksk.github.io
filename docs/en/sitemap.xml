@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://httrksk.github.io/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/"
+                />
+  </url><url>
     <loc>https://httrksk.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,18 +26,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://httrksk.github.io/archives/"
-                />
-  </url><url>
-    <loc>https://httrksk.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://httrksk.github.io/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://httrksk.github.io/"
                 />
   </url><url>
     <loc>https://httrksk.github.io/categories/</loc>
