@@ -73,6 +73,7 @@ math: true
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
+- 2023年11月28日: Personnel Economics Workshop（PEW 於 早稲田大学）にて、論文 “Closing the Psychological Distance: The Impact of Social Interaction on Team Performance” 報告
 - 2023年8月25日: 27th Annual ISNIE/SIOE Conference (SIOE 2023 Frankfurt: ドイツ) にて、論文 "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance" 報告
 - 2022年9月5日: 産業組織・競争政策研究会（於 信州大学）にて、論文 "Profit-sharing vs price-fixing collusions with heterogeneous firms" 報告
 - 2022年8月27日: 49th Annual Conference of the European Association for Research in Industrial Economics (EARIE 2022 Vienna: オーストリア) にて、論文 "Profit-sharing vs price-fixing collusions with heterogeneous firms" 報告
