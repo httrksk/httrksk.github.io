@@ -68,3 +68,7 @@ icon = "fas fa-file-signature"
 title = "Note"
 url = "https://note.com/hattorizemi"
 
+[[socialIcons]]
+icon = "fab fa-orcid"
+title = "Orcid"
+url = "https://orcid.org/0000-0001-8686-4704"
