@@ -17,7 +17,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Published Papers (Refereed)
 
-1. "A Paradox of Coalition Building in Public Good Provision", Economic Modeling, forthcoming. (Co-authored with Wolfgang Buchholz.)
+1. "A Paradox of Coalition Building in Public Good Provision", Economic Modeling, forthcoming. (Co-authored with Wolfgang Buchholz.) [[LINK](https://doi.org/10.1016/j.econmod.2024.106722)]
 2. "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, 138(3), 249-286, 2023. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1007/s00712-022-00808-5)]
 3. "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
 4. "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/093245617X14996661407767)]
