@@ -49,7 +49,6 @@ author = "Hugo Authors"
 
 - "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]
 - "Profit-Sharing vs Price-Fixing Collusion with Heterogeneous Firms", MPRA Paper No. 110800, posted 24 Nov 2021. [[Link PDF](https://mpra.ub.uni-muenchen.de/110800/1/MPRA_paper_110800.pdf)]
-- "A Paradox of Coalition Building in Public Good Provision", CESifo Working Paper No. 9354. (Co-authored with Wolfgang Buchholz) [[Link](https://www.cesifo.org/node/65747)]
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo).
 - "Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.

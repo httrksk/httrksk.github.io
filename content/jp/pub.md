@@ -39,11 +39,9 @@ math: true
 
 - "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042 posted 12 Apr 2023. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]
 - "Profit-Sharing vs Price-Fixing Collusion with Heterogeneous Firms", MPRA Paper No. posted 24 Nov 2021. [[Link PDF](https://mpra.ub.uni-muenchen.de/110800/1/MPRA_paper_110800.pdf)]
-- "A Paradox of Coalition Building in Public Good Provision", CESifo Working Paper No. 9354. (Co-authored with Wolfgang Buchholz) [[Link](https://www.cesifo.org/node/65747)]
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada). [[Link PDF](https://mpra.ub.uni-muenchen.de/104640/9/MPRA_paper_104640.pdf)]
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo). [[Link PDF](https://mpra.ub.uni-muenchen.de/89893/9/MPRA_paper_89893.pdf)]
 - "Profit-maximizing Wages under Duopoly", MPRA Paper No.70288, posted 26. March 2016.
-- "Should non-genuine products be expelled from markets?", Kwansei Gakuin University Discussion Paper Series, No. 126, March 2015. (Co-authored with Keisaku Higashida.)
 - "How to Commit to a Future Price", Working Papers 131402, University of California-Irvine, Department of Economics. (Co-authored with Amihai Glazer.)
 - "When Government Misleads US: Sending Misinformation as Protectionist Devices", Kwansei Gakuin University Discussion Paper Series, No. 75, August 2011. [Link PDF] (Co-authored with Keisaku Higashida.)
 - "Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007. R&R
