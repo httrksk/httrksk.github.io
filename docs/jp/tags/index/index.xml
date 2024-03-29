@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on 服部 圭介</title>
+    <title>Index on 服部 圭介</title>
     <link>https://httrksk.github.io/jp/tags/index/</link>
-    <description>Recent content in index on 服部 圭介</description>
+    <description>Recent content in Index on 服部 圭介</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://httrksk.github.io/jp/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>jp</language>
+    <lastBuildDate>Sun, 17 Mar 2024 01:03:18 +0900</lastBuildDate><atom:link href="https://httrksk.github.io/jp/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
       <link>https://httrksk.github.io/jp/post/</link>
