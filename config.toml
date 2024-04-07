@@ -11,6 +11,7 @@ publishDir = "docs"
 [params]
 title = "Keisuke Hattori"
 author = "Keisuke Hattori"
+gtagId = "G-N4EYQRJ4R7"
 
 
 
