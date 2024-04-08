@@ -32,16 +32,19 @@ blockquote {
 }
 
 .sidebar .logo-title .title h3 {
-  text-transform: capitalize;
-  letter-spacing: 1.5px;
+  text-transform: none;
+	letter-spacing: 1.5px;
+	line-height: 1.4;
 }
 
 .post .post-title h1 {
-  text-transform: capitalize;
+	line-height: 1.4;
+	text-transform: none;
 }
 
 .post .post-title h3 {
-  line-height: 1.6; /* 行間を調整するための値を追加 */
+	line-height: 1.4;
+	text-transform: none;
 }
 
 
