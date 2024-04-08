@@ -367,26 +367,26 @@ aside {
 }
 
 .post .post-title h1 {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 1.7em;
   letter-spacing: 0.2px;
-  line-height: 1;
+  line-height: 1.6;
   font-weight: 400;
 }
 
 .post .post-title h2 {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.2px;
   font-size: 2.6rem;
-  line-height: 1;
+  line-height: 1.6;
   font-weight: 600;
   color: var(--heading-color);
 }
 
 .post .post-title h3 {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
-  line-height: 1;
+  line-height: 1.6;
   font-weight: 400;
   color: var(--heading-color);
   font-size: 2.2rem;
