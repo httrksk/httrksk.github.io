@@ -370,7 +370,7 @@ aside {
   text-transform: none;
   font-size: 1.7em;
   letter-spacing: 0.2px;
-  line-height: 1.6;
+  line-height: 1.4;
   font-weight: 400;
 }
 
@@ -378,7 +378,7 @@ aside {
   text-transform: none;
   letter-spacing: 0.2px;
   font-size: 2.6rem;
-  line-height: 1.6;
+  line-height: 1.4;
   font-weight: 600;
   color: var(--heading-color);
 }
@@ -386,7 +386,7 @@ aside {
 .post .post-title h3 {
   text-transform: none;
   letter-spacing: 1px;
-  line-height: 1.6;
+  line-height: 1.4;
   font-weight: 400;
   color: var(--heading-color);
   font-size: 2.2rem;
