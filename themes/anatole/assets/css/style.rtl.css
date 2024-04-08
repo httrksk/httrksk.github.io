@@ -41,8 +41,9 @@ blockquote {
 }
 
 .post .post-title h3 {
-  text-transform: capitalize;
+  line-height: 1.6; /* 行間を調整するための値を追加 */
 }
+
 
 .post .post-footer .info .separator a {
   margin-left: 0.2em;
