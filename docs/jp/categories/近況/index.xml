@@ -5,8 +5,13 @@
     <link>http://localhost:1313/jp/categories/%E8%BF%91%E6%B3%81/</link>
     <description>Recent content in 近況 on 服部 圭介</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <language>jp</language>
     <lastBuildDate>Fri, 25 Aug 2023 01:03:18 +0900</lastBuildDate><atom:link href="http://localhost:1313/jp/categories/%E8%BF%91%E6%B3%81/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 25 Aug 2023 01:03:18 +0900</lastBuildDate><atom:link href="https://httrksk.github.io/jp/categories/%E8%BF%91%E6%B3%81/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
     <item>
       <title>SIOE 2023 at Goethe University（ドイツ）にて研究報告をしました。</title>
       <link>http://localhost:1313/jp/post/20230825/</link>

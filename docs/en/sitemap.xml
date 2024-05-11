@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -16,6 +17,9 @@
                 />
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
+=======
+    <loc>https://httrksk.github.io/archives/</loc>
+>>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,7 +32,23 @@
                 href="http://localhost:1313/archives/"
                 />
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/categories/</loc>
+=======
+    <loc>https://httrksk.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/"
+                />
+  </url><url>
+    <loc>https://httrksk.github.io/categories/</loc>
+>>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"

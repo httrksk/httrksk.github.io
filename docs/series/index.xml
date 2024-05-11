@@ -5,6 +5,10 @@
     <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on Keisuke Hattori</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <language>en</language><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <language>ja-jp</language><atom:link href="https://httrksk.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
   </channel>
 </rss>

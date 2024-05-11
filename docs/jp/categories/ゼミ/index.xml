@@ -5,8 +5,13 @@
     <link>http://localhost:1313/jp/categories/%E3%82%BC%E3%83%9F/</link>
     <description>Recent content in ゼミ on 服部 圭介</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <language>jp</language>
     <lastBuildDate>Tue, 18 May 2021 01:03:18 +0900</lastBuildDate><atom:link href="http://localhost:1313/jp/categories/%E3%82%BC%E3%83%9F/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 18 May 2021 01:03:18 +0900</lastBuildDate><atom:link href="https://httrksk.github.io/jp/categories/%E3%82%BC%E3%83%9F/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
     <item>
       <title>ゼミのサイトをNOTEに移転させました</title>
       <link>http://localhost:1313/jp/post/20210518/</link>

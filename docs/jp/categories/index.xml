@@ -5,8 +5,13 @@
     <link>http://localhost:1313/jp/categories/</link>
     <description>Recent content in Categories on 服部 圭介</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <language>jp</language>
     <lastBuildDate>Thu, 04 Apr 2024 01:03:18 +0900</lastBuildDate><atom:link href="http://localhost:1313/jp/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 04 Apr 2024 01:03:18 +0900</lastBuildDate><atom:link href="https://httrksk.github.io/jp/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
     <item>
       <title>研究</title>
       <link>http://localhost:1313/jp/categories/%E7%A0%94%E7%A9%B6/</link>
