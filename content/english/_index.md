@@ -47,6 +47,7 @@ author = "Hugo Authors"
 #### <i class="fas fa-check-square"></i> Working Papers
 
 
+- "SLAP Typing Task: A New Experimental Paradigm for Teamwork Research", May 11, 2024, Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958 [[LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958)]
 - "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]
 - "Profit-Sharing vs Price-Fixing Collusion with Heterogeneous Firms", MPRA Paper No. 110800, posted 24 Nov 2021. [[Link PDF](https://mpra.ub.uni-muenchen.de/110800/1/MPRA_paper_110800.pdf)]
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada).
