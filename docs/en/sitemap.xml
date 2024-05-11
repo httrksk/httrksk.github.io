@@ -2,40 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-=======
-    <loc>https://httrksk.github.io/archives/</loc>
->>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/archives/"
-                />
-  </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/categories/</loc>
-=======
     <loc>https://httrksk.github.io/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
@@ -47,65 +15,77 @@
                 href="https://httrksk.github.io/"
                 />
   </url><url>
+    <loc>https://httrksk.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://httrksk.github.io/jp/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://httrksk.github.io/archives/"
+                />
+  </url><url>
     <loc>https://httrksk.github.io/categories/</loc>
->>>>>>> 34a526c573772c4c26d058bcda5d0eec37a9a994
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/categories/"
+                href="https://httrksk.github.io/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://httrksk.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
+    <loc>https://httrksk.github.io/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/tags/index/"
+                href="https://httrksk.github.io/jp/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/index/"
+                href="https://httrksk.github.io/tags/index/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://httrksk.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/post/"
+                href="https://httrksk.github.io/jp/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://httrksk.github.io/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://httrksk.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/series/"
+                href="https://httrksk.github.io/jp/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://httrksk.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://httrksk.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/tags/"
+                href="https://httrksk.github.io/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://httrksk.github.io/tags/"
                 />
   </url>
 </urlset>
