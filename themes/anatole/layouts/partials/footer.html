@@ -5,12 +5,9 @@
         &copy;
         {{ if isset .context.Site.Params "copyright" }}
           {{ replace .context.Site.Params.copyright "{{ YEAR }}" (now.Format "2006") | markdownify }}
-
         {{ else }}
           {{ .context.Site.Params.author }}
           {{ now.Format "2006" }}
-
-
         {{ end }}
       </li>
       {{ range .context.Site.Menus.footer }}
@@ -19,23 +16,18 @@
             href="{{ .URL }}"
             {{ if strings.HasPrefix .URL "http" }}
               target="_blank" rel="noopener noreferrer"
-
             {{ end }}
             title="{{ .Title }}"
           >
             {{ .Name }}
           </a>
         </li>
-
       {{ end }}
     </ul>
   </div>
 </footer>
 {{- partial "medium-zoom.html" .context -}}
 {{- partial "math.html" .context -}}
-{{- template "_internal/google_analytics_async.html" .context -}}
-{{- if and (hugo.IsProduction) (.context.Site.Params.gtagId) -}}
-  {{ partial "google-analytics-gtag-async.html" .context }}
-
-
+{{- if and (hugo.IsProduction) (.Site.Params.googleAnalytics) -}}
+  {{ partial "google_analytics.html" . }}
 {{- end -}}

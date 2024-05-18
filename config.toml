@@ -9,17 +9,13 @@ canonifyurls = true
 publishDir = "docs"
 
 [params]
-title = "Keisuke Hattori"
-author = "Keisuke Hattori"
-gtagId = "G-N4EYQRJ4R7"
-
-
+  title = "Keisuke Hattori"
+  author = "Keisuke Hattori"
+  gtagId = "G-N4EYQRJ4R7"
+  googleAnalytics = "G-N4EYQRJ4R7"
 
 # Enable Disqus
-#disqusShortname = ""
-
-# Google Analytics
-googleAnalytics = "G-N4EYQRJ4R7"
+# disqusShortname = ""
 
 # Syntax highlighting
 pygmentsUseClasses = true   
@@ -27,11 +23,23 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-        unsafe=true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [taxonomies]
-    category = "categories"
-    series = "series"
-    tag = "tags"
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[languages]
+  [languages.jp]
+    languageName = "日本語"
+    weight = 2
+    contentDir = "content/jp"
+    [languages.jp.params]
+      description = "サイトの説明"
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
