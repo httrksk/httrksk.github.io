@@ -38,7 +38,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
     contentDir = "content/jp"
     [languages.jp.params]
-      description = "サイトの説明"
+      description = "青山学院大学 経営学部 教授"
   [languages.en]
     languageName = "English"
     weight = 1
