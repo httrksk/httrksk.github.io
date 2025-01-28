@@ -12,7 +12,7 @@ math: true
 3. "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
 4. "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/093245617X14996661407767)]
 5. "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017. [[LINK](https://doi.org/10.1016/j.econmod.2017.04.024)]
-6. "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics (Zeitschrift für Nationalökonomie), 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.) [[LINK](https://doi.org/10.1007/s00712-015-0469-x)]
+6. "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics, 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.) [[LINK](https://doi.org/10.1007/s00712-015-0469-x)]
 7. "Who Benefits from Misleading Advertising?", Economica, 82(328), 613-643, 2015. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1111/ecca.12149)]
 8. "Within-group Cooperation and Between-group Externalities in the Provision of Public Goods", International Tax and Public Finance, 22(2), 252-273, 2015. [[LINK](https://doi.org/10.1007/s10797-014-9308-1)]
 9. "Trade Liberalization and Environmental Regulation on International Transportation", Japanese Economic Review, 65(4), 468-482. 2014. (Co-authored with Kenzo Abe and Yoshitaka Kawagoshi.) [[LINK](https://doi.org/10.1111/jere.12044)]
@@ -23,7 +23,7 @@ math: true
 14. "Misleading Advertising in Duopoly", Canadian Journal of Economics, 45, 1154-1187, 2012. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1111/j.1540-5982.2012.01730.x)] [[Economic Logic による解説](http://economiclogic.blogspot.jp/2011/04/why-american-politicians-lie.html)]
 15. "Alliance Partner Choice in Markets with Vertical and Horizontal Externalities", B.E. Journal of Theoretical Economics, 11, Issue 1 (Topics), Article 13, 2011. (Co-authored with Ming-Hsin Lin.) [[LINK](https://doi.org/10.2202/1935-1704.1732)]
 16. "Strategic Voting for Noncooperative Environmental Policies in Open Economies", Environmental and Resource Economics, 46, 459-474, 2010. [[LINK](https://doi.org/10.1007/s10640-010-9349-6)]
-17. "Is Technological Progress Pareto-Improving for a World with Global Public Goods?", Journal of Economics (Zeitschrift für Nationalökonomie), 84, 135-156, 205. [[LINK](https://doi.org/10.1007/s00712-004-0106-6)]
+17. "Is Technological Progress Pareto-Improving for a World with Global Public Goods?", Journal of Economics, 84, 135-156, 205. [[LINK](https://doi.org/10.1007/s00712-004-0106-6)]
 18. Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005.  [[国会図書館データベースへのリンク](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f&sa=D&sntz=1&usg=AFQjCNE_J_Zgor_w-umEhLubA2bEXvUGNw)]
 19. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
@@ -56,7 +56,7 @@ math: true
 - 2019 - 2023年
   - 科学研究費 基盤 C（研究代表者）『[多市場間の相互作用と企業の戦略的行動に関する経済分析](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K01639/)』（課題番号19K01639）
 - 2013年 - 2018年 
-  - 科学研究費 基盤C（研究代表者）『[貿易・環境政策としての情報操作、および品質規制に関する理論研究](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25380343/)』（課題番号：25380343）
+  - 科学研究費 基盤C（研究代表者）『[貿易・環境政策としての情報操作、および品質規制に関する理論研究](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-25380343/)』（課題番号：25380343）
 - 2011年 - 2014年
   - 科学研究費 基盤B（研究分担者）『[市場構造、所有権と責任に関する制度と環境規制の経済分析](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23330087/)』（課題番号：23330087）
 - 2010年 - 2012年
@@ -71,7 +71,7 @@ math: true
 #### <i class="fas fa-bone"></i> その他
 
 - 日本経済学会 大会プログラム委員: 2014年度春、2019年度春
-- 科学研究費補助金 審査委員: 2020年度（審査第四部会）、2021年度（審査第四部会）
+- 科学研究費補助金 審査委員: 2022年度（審査第四部会）, 2021年度（審査第四部会）, 2020年度（審査第四部会）
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
@@ -82,7 +82,7 @@ math: true
 - 2022年6月9日: International Conference of Public Economic Theory (PET 2022, フランス) にて、論文 “A Paradox of Coalition Building in Public Good Provision” を報告
 - 2020年3月20日: プラットフォームと流通の研究会（於 神戸大学）にて、論文 "A Paradox of Coalition Building in Public Good Provision" および "Price Collusion with Asymmetric Costs" を報告
 - 2019年11月28日: ミクロ経済学・ゲーム理論研究会（於 京都大学）にて、論文 "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities" を報告
-- 2019年7月9日: International Conference on Public Economic Theory 2019（Pôle Européen de Gestion et d’Economie: Strasbourg, フランス）にて、論文 "Leadership by Showing Generosity" を報告
+- 2019年7月9日: International Conference on Public Economic Theory 2019（P\UTF{00F4}le Europ\UTF{00E9}en de Gestion et d’Economie: Strasbourg, フランス）にて、論文 "Leadership by Showing Generosity" を報告
 - 2019年5月25日: 国際経済・産業ゼミナール（HITS-MJT Seminar on International Economy and Industry: 於 下関市立大学）にて、論文 "Effective Leadership Selection in Complementary Teams"を報告
 - 2019年2月28日: Sapporo Workshop on Industrial Economics （於 札幌学院大学）にて、論文 "Team Production, Synergy Effect, and Leadership" を報告
 - 2019年2月8日: Irvine-Japan Conference on Public Policy（於 University of California, Irvine, アメリカ）にて, 論文 "Team Production, Synergy Effect, and Leadership'' を報告
