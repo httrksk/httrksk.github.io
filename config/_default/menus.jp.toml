@@ -23,7 +23,7 @@
   url = "/jp/profile/"
   
     [[main]]
-  name = "講義/ゼミ"
+  name = "ゼミ・大学院"
   weight = 400
   identifier = "edu"
   url = "/jp/edu/"

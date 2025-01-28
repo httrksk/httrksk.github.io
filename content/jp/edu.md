@@ -1,10 +1,14 @@
 ### 講義/ゼミ <i class="fas fa-seedling"></i>
 
-#### <i class="fas fa-users"></i> ゼミ活動
+#### <i class="fas fa-users"></i> 学部ゼミ活動
 
 - [青山学院大学 服部ゼミの NOTE ](https://note.com/hattorizemi)
 
 > ゼミの新着情報、活動、研究報告の要約などを閲覧できます。
+
+#### <i class="fas fa-users"></i> 大学院生の募集について
+
+> 青山学院大学 経営学研究科 博士前期（後期）過程に進学して、私の研究室に所属を考えている方は、[こちらの記事](https://note.com/hattorizemi)をよく読んでから応募をしてください。
 
 #### <i class="fas fa-chalkboard-teacher"></i> 講義
 
