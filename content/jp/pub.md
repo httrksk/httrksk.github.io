@@ -82,7 +82,7 @@ math: true
 - 2022年6月9日: International Conference of Public Economic Theory (PET 2022, フランス) にて、論文 “A Paradox of Coalition Building in Public Good Provision” を報告
 - 2020年3月20日: プラットフォームと流通の研究会（於 神戸大学）にて、論文 "A Paradox of Coalition Building in Public Good Provision" および "Price Collusion with Asymmetric Costs" を報告
 - 2019年11月28日: ミクロ経済学・ゲーム理論研究会（於 京都大学）にて、論文 "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities" を報告
-- 2019年7月9日: International Conference on Public Economic Theory 2019（P\UTF{00F4}le Europ\UTF{00E9}en de Gestion et d’Economie: Strasbourg, フランス）にて、論文 "Leadership by Showing Generosity" を報告
+- 2019年7月9日: International Conference on Public Economic Theory 2019（P&ocirc;le Europ&eacute;en de Gestion et d’Economie: Strasbourg, フランス）にて、論文 "Leadership by Showing Generosity" を報告
 - 2019年5月25日: 国際経済・産業ゼミナール（HITS-MJT Seminar on International Economy and Industry: 於 下関市立大学）にて、論文 "Effective Leadership Selection in Complementary Teams"を報告
 - 2019年2月28日: Sapporo Workshop on Industrial Economics （於 札幌学院大学）にて、論文 "Team Production, Synergy Effect, and Leadership" を報告
 - 2019年2月8日: Irvine-Japan Conference on Public Policy（於 University of California, Irvine, アメリカ）にて, 論文 "Team Production, Synergy Effect, and Leadership'' を報告
