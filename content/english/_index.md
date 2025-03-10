@@ -22,7 +22,7 @@ author = "Hugo Authors"
 3. "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
 4. "Skill Diversity and Leadership in Team Production", Journal of Institutional and Theoretical Economics, 174(2), 351-374, 2018. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/093245617X14996661407767)]
 5. "Optimal Combination of Innovation and Environmental Policies under Technology Licensing", Economic Modelling, 64, 601-609, 2017. [[LINK](https://doi.org/10.1016/j.econmod.2017.04.024)]
-6. "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics (Zeitschrift für Nationalökonomie), 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.) [[LINK](https://doi.org/10.1007/s00712-015-0469-x)]
+6. "Free Entry and Social Inefficiency under Co-opetition", Journal of Economics (Zeitschrift f\UTF{00FC}r National\UTF{00F6}konomie), 118(2), 97-119, 2016. (Co-authored with Takeshi Yoshikawa.) [[LINK](https://doi.org/10.1007/s00712-015-0469-x)]
 7. "Who Benefits from Misleading Advertising?", Economica, 82(328), 613-643, 2015. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1111/ecca.12149)]
 8. "Within-group Cooperation and Between-group Externalities in the Provision of Public Goods", International Tax and Public Finance, 22(2), 252-273, 2015. [[LINK](https://doi.org/10.1007/s10797-014-9308-1)]
 9. "Trade Liberalization and Environmental Regulation on International Transportation", Japanese Economic Review, 65(4), 468-482. 2014. (Co-authored with Kenzo Abe and Yoshitaka Kawagoshi.) [[LINK](https://doi.org/10.1111/jere.12044)]
@@ -33,7 +33,7 @@ author = "Hugo Authors"
 14. "Misleading Advertising in Duopoly", Canadian Journal of Economics, 45, 1154-1187, 2012. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1111/j.1540-5982.2012.01730.x)]
 15. "Alliance Partner Choice in Markets with Vertical and Horizontal Externalities", B.E. Journal of Theoretical Economics, 11, Issue 1 (Topics), Article 13, 2011. (Co-authored with Ming-Hsin Lin.) [[LINK](https://doi.org/10.2202/1935-1704.1732)]
 16. "Strategic Voting for Noncooperative Environmental Policies in Open Economies", Environmental and Resource Economics, 46, 459-474, 2010. [[LINK](https://doi.org/10.1007/s10640-010-9349-6)]
-17. "Is Technological Progress Pareto-Improving for a World with Global Public Goods?", Journal of Economics (Zeitschrift für Nationalökonomie), 84, 135-156, 205. [[LINK](https://doi.org/10.1007/s00712-004-0106-6)]
+17. "Is Technological Progress Pareto-Improving for a World with Global Public Goods?", Journal of Economics (Zeitschrift f\UTF{00FC}r National\UTF{00F6}konomie), 84, 135-156, 205. [[LINK](https://doi.org/10.1007/s00712-004-0106-6)]
 18. Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005. [[National Diet Library, JAPAN: LINK](https://iss.ndl.go.jp/books/R100000002-I000007781437-00?ar=4e1f&locale=en)]
 19. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
@@ -46,7 +46,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Working Papers
 
-
+- "Leading with Generosity and Responsibility through Reward Allocation Decisions in Teams", February 20, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5146087 (Co-authored with Keisaku Higashida and Kimiyuki Morita.) [[LINK](https://papers.ssrn.com/abstract=5146087)]
 - "SLAP Typing Task: A New Experimental Paradigm for Teamwork Research", May 11, 2024, Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958 [[LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958)]
 - "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]
 - "Profit-Sharing vs Price-Fixing Collusion with Heterogeneous Firms", MPRA Paper No. 110800, posted 24 Nov 2021. [[Link PDF](https://mpra.ub.uni-muenchen.de/110800/1/MPRA_paper_110800.pdf)]
