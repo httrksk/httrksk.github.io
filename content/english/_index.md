@@ -45,7 +45,7 @@ author = "Hugo Authors"
 - "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
 
 #### <i class="fas fa-check-square"></i> Working Papers
-
+- "Closing the Psychological Distance: Effect of Social Interaction on Team Performance", April 4, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5204747 (Co-authored with Mai Yamada.) [[LINK](https://papers.ssrn.com/abstract=5204747)]
 - "Leading with Generosity and Responsibility through Reward Allocation Decisions in Teams", February 20, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5146087 (Co-authored with Keisaku Higashida and Kimiyuki Morita.) [[LINK](https://papers.ssrn.com/abstract=5146087)]
 - "SLAP Typing Task: A New Experimental Paradigm for Teamwork Research", May 11, 2024, Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958 [[LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958)]
 - "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]

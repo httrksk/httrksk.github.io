@@ -36,9 +36,9 @@ math: true
 - 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. [[LINK](https://ci.nii.ac.jp/naid/40005735643)]
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
+- "Closing the Psychological Distance: Effect of Social Interaction on Team Performance", April 4, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5204747 (Co-authored with Mai Yamada.) [[LINK](https://papers.ssrn.com/abstract=5204747)]
 - "Leading with Generosity and Responsibility through Reward Allocation Decisions in Teams", February 20, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5146087 (Co-authored with Keisaku Higashida and Kimiyuki Morita.) [[LINK](https://papers.ssrn.com/abstract=5146087)]
 - "SLAP Typing Task: A New Experimental Paradigm for Teamwork Research", May 11, 2024, Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958 [[LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4824958)]
-- "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance", MPRA Paper No. 117042 posted 12 Apr 2023. (Co-authored with Mai Yamada) [ [Link PDF](https://mpra.ub.uni-muenchen.de/117677/9/20230414.pdf) ]
 - "Profit-Sharing vs Price-Fixing Collusion with Heterogeneous Firms", MPRA Paper No. posted 24 Nov 2021. [[Link PDF](https://mpra.ub.uni-muenchen.de/110800/1/MPRA_paper_110800.pdf)]
 - "Welfare Implications of Sequential Entry with Heterogeneous Firms", MPRA Paper No. 103422, posted 15 Oct 2020. (Co-authored with Mai Yamada). [[Link PDF](https://mpra.ub.uni-muenchen.de/104640/9/MPRA_paper_104640.pdf)]
 - "Heterogeneous Consumer Expectations and Monopoly Pricing for Durables with Network Externalities", MPRA Paper No.89893. November 2019. (Co-authored with Yusuke Zennyo). [[Link PDF](https://mpra.ub.uni-muenchen.de/89893/9/MPRA_paper_89893.pdf)]
