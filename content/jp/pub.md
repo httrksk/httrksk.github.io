@@ -29,7 +29,8 @@ math: true
 
 #### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿など）
 
-- 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
+- 「リーダーシップと報酬配分：大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025. 
+- 「経済論文の読み方: 学術論文を読もう」 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
 - Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, Springer. 2015. [[LINK](https://www.springer.com/gp/book/9784431551263)] 
 - 「戦略的環境政策の政治経済学的アプローチ」, 大阪経大論集, 60, 225-239, 2010. [[Link PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)]
 - "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
