@@ -36,6 +36,7 @@ math: true
 - 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. [[LINK](https://ci.nii.ac.jp/naid/40005735643)]
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
+- "Profit-Increasing Entry with Endogenous Banking", February 06, 2026. Available at SSRN: https://ssrn.com/abstract=6157146 
 - "Endogenous Finance and Policy Interactions: Monetary Policy, Financial Regulation, and Competition Policy", January 25, 2026, Available at SSRN: https://ssrn.com/abstract=6131148 
 - "The Burden of Excellence: Endogenous Efficiency Paradoxes under Coopetition", RIETI Discussion Paper Series 25-E-126, December 2025. Available at RIETI: https://www.rieti.go.jp/jp/publications/dp/25e126.pdf (Co-authored with Takeshi Yoshikawa.) [[LINK](https://www.rieti.go.jp/en/publications/summary/25120022.html)]
 - "Closing the Psychological Distance: Effect of Social Interaction on Team Performance", April 4, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5204747 (Co-authored with Mai Yamada.) [[LINK](https://papers.ssrn.com/abstract=5204747)]
