@@ -78,6 +78,12 @@ math: true
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
+- 2026年3月19日: 28th Colloquium on Personnel Economics (COPE 2026, 於 Erasmus University, Netherland) にて、論文 "Closing the Psychological Distance: Effect of Social Interaction on Team Performance" 報告
+- 2026年3月2日: 産業組織・競争政策研究会（於 常葉大学）にて、論文 "Endogenous finance and policy interactions: Monetary policy, financial regulation, and competition policy" 報告
+- 2025年12月3日: AGU RE: Search Forum 2025（於 青山学院大学）にて、論文 "Closing the Psychological Distance: Effect of Social Interaction on Team Performance" 報告（ポスター）
+- 2025年9月18日: 第4回 グローバル化・イノベーションと競争政策 研究会（於 経済産業省）にて、論文 "The Burden of Excellence: Endogenous Efficiency Paradoxes under Coopetition" 報告
+- 2025年9月6日: プラットフォームと流通の研究会（於 長崎大学）にて、論文"Policy Effects in Oligopoly with Endogenous Finance" 報告
+- 2025年4月26日: Personnel Economics Workshop（PEW 於 早稲田大学）にて、論文 "Leading with Generosity and Responsibility through Reward Allocation Decisions in Teams" 報告
 - 2023年11月28日: Personnel Economics Workshop（PEW 於 早稲田大学）にて、論文 “Closing the Psychological Distance: The Impact of Social Interaction on Team Performance” 報告
 - 2023年8月25日: 27th Annual ISNIE/SIOE Conference (SIOE 2023 Frankfurt: ドイツ) にて、論文 "Closing the Psychological Distance: The Effect of Social Interactions on Team Performance" 報告
 - 2022年9月5日: 産業組織・競争政策研究会（於 信州大学）にて、論文 "Profit-sharing vs price-fixing collusions with heterogeneous firms" 報告
