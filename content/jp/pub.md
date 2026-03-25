@@ -27,7 +27,8 @@ math: true
 18. Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005.  [[国会図書館データベースへのリンク](http://www.google.com/url?q=http%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000007781437-00%3Far%3D4e1f&sa=D&sntz=1&usg=AFQjCNE_J_Zgor_w-umEhLubA2bEXvUGNw)]
 19. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
-#### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿など）
+#### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿・分担執筆など）
+- 「グリーンウォッシュと消費者反応―サーベイ実験からの洞察」, 東田啓作 編『グリーンウォッシュの経済分析』中央経済社，2026年．（東田啓作氏との共著）
 - 「リーダーシップと報酬分配: 大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025.[[Link PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02039832&elmid=Body&fname=tf02039832-19-43.pdf&loginflg=on&once=true)]
 - 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
 - Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, Springer. 2015. [[LINK](https://www.springer.com/gp/book/9784431551263)] 
