@@ -28,6 +28,7 @@ math: true
 19. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
 #### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿・分担執筆など）
+- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論週, 61(1)
 - 「グリーンウォッシュと消費者反応―サーベイ実験からの洞察」, 東田啓作 編『グリーンウォッシュの経済分析』中央経済社，2026年．（東田啓作氏との共著）
 - 「リーダーシップと報酬分配: 大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025.[[Link PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02039832&elmid=Body&fname=tf02039832-19-43.pdf&loginflg=on&once=true)]
 - 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
@@ -37,6 +38,7 @@ math: true
 - 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. [[LINK](https://ci.nii.ac.jp/naid/40005735643)]
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
+- "Diverse Hands, Aligned Hearts: Ability and Preference Diversity in Team Production", ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341465
 - "Profit-Increasing Entry with Endogenous Banking", February 06, 2026. Available at SSRN: https://ssrn.com/abstract=6157146 
 - "Endogenous Finance and Policy Interactions: Monetary Policy, Financial Regulation, and Competition Policy", January 25, 2026, Available at SSRN: https://ssrn.com/abstract=6131148 
 - "The Burden of Excellence: Endogenous Efficiency Paradoxes under Coopetition", RIETI Discussion Paper Series 25-E-126, December 2025. Available at RIETI: https://www.rieti.go.jp/jp/publications/dp/25e126.pdf (Co-authored with Takeshi Yoshikawa.) [[LINK](https://www.rieti.go.jp/en/publications/summary/25120022.html)]
