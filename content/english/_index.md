@@ -45,6 +45,7 @@ author = "Hugo Authors"
 - "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
 
 #### <i class="fas fa-check-square"></i> Working Papers
+- "Who Disciplines the Leader? Leadership as Exposure ", June 22, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341546
 - "Diverse Hands, Aligned Hearts: Ability and Preference Diversity in Team Production", June 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341465
 - "Profit-Increasing Entry with Endogenous Banking", February 06, 2026. Available at SSRN: https://ssrn.com/abstract=6157146 
 - "Endogenous Finance and Policy Interactions: Monetary Policy, Financial Regulation, and Competition Policy", January 25, 2026, Available at SSRN: https://ssrn.com/abstract=6131148 
