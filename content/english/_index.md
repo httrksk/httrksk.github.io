@@ -17,7 +17,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Published Papers (Refereed)
 
-1. "Procrastination Traps and Endogenous Leadership in Teams", Economics Letters, forthcoming.
+1. "Procrastination Traps and Endogenous Leadership in Teams", Economics Letters, forthcoming. [[LINK](https://doi.org/10.1016/j.econlet.2026.113120)]
 2. "A Paradox of Coalition Building in Public Good Provision", Economic Modeling, 135, 106722, 2024. (Co-authored with Wolfgang Buchholz.) [[LINK](https://doi.org/10.1016/j.econmod.2024.106722)]
 3. "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, 138(3), 249-286, 2023. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1007/s00712-022-00808-5)]
 4. "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]

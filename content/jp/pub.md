@@ -7,7 +7,7 @@ math: true
 
 #### <i class="fas fa-check-square"></i> 論文 (査読付き・英文)
 
-1. "Procrastination Traps and Endogenous Leadership in Teams", Economics Letters, forthcoming.
+1. "Procrastination Traps and Endogenous Leadership in Teams", Economics Letters, forthcoming. [[LINK](https://doi.org/10.1016/j.econlet.2026.113120)]
 2. "A Paradox of Coalition Building in Public Good Provision", Economic Modeling, 135, 106722, 2024. (Co-authored with Wolfgang Buchholz.) [[LINK](https://doi.org/10.1016/j.econmod.2024.106722)]
 3. "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, 138(3), 249-286, 2023. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1007/s00712-022-00808-5)]
 4. "Effective Leadership Selection in Complementary Teams", Journal of Institutional and Theoretical Economics, 176(4), 620-639, 2020. (Co-authored with Mai Yamada.) [[LINK](https://doi.org/10.1628/jite-2020-0037)]
@@ -29,7 +29,7 @@ math: true
 20. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
 #### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿・分担執筆など）
-- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論週, 61(1)
+- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論週, 61(1), 1-25, 2026.
 - 「グリーンウォッシュと消費者反応―サーベイ実験からの洞察」, 東田啓作 編『グリーンウォッシュの経済分析』中央経済社，2026年．（東田啓作氏との共著）
 - 「リーダーシップと報酬分配: 大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025.[[Link PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02039832&elmid=Body&fname=tf02039832-19-43.pdf&loginflg=on&once=true)]
 - 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
