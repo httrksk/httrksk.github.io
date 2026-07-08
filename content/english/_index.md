@@ -46,6 +46,7 @@ author = "Hugo Authors"
 - "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
 
 #### <i class="fas fa-check-square"></i> Working Papers
+- "The Desire to Be Missed: Irreplaceability and Leadership in Teams", July 8, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341791
 - "Self-Starters Are Leaders: Present-Bias Asymmetry and Collective Procrastination", June 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341671
 - "Who Disciplines the Leader? Leadership as Exposure ", June 22, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341546
 - "Diverse Hands, Aligned Hearts: Ability and Preference Diversity in Team Production", June 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341465

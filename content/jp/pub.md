@@ -39,6 +39,7 @@ math: true
 - 「公共財の自発的供給理論：回顧と展望」, 大阪大学経済学, 52-2, 137-153, 2002. [[LINK](https://ci.nii.ac.jp/naid/40005735643)]
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
+- "The Desire to Be Missed: Irreplaceability and Leadership in Teams", July 8, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341791
 - "Self-Starters Are Leaders: Present-Bias Asymmetry and Collective Procrastination", June 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341671
 - "Who Disciplines the Leader? Leadership as Exposure ", June 22, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341546
 - "Diverse Hands, Aligned Hearts: Ability and Preference Diversity in Team Production", June 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341465
