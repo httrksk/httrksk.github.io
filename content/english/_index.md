@@ -38,14 +38,9 @@ author = "Hugo Authors"
 19. Essays on the Private Provision of Public Goods, Ph.D. Thesis, Osaka University, 2005. [[National Diet Library, JAPAN: LINK](https://iss.ndl.go.jp/books/R100000002-I000007781437-00?ar=4e1f&locale=en)]
 20. "Reconsideration of the Crowding-out Effect with Non-linear Contribution Technology", Economics Bulletin, 8-7, 1-10, 2003. [[LINK PDF](http://www.accessecon.com/pubs/eb/2003/volume8/EB-02H40004A.pdf)]
 
-#### <i class="fas fa-check-square"></i> Published Papers (Others)
-
-- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. [[LINK](https://link.springer.com/book/10.1007/978-4-431-55127-0)]
-- "Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), Osaka Keidai Ronshu, 60, 225-239, 2010. [[LINK PDF](https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_060_005_225-239.pdf)]
-- "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
-- "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
-
 #### <i class="fas fa-check-square"></i> Working Papers
+
+- "The Finisher's Paradox: Handoff Quality in Deadline-Constrained Teams", July 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342018
 - "The Desire to Be Missed: Irreplaceability and Leadership in Teams", July 8, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341791
 - "Self-Starters Are Leaders: Present-Bias Asymmetry and Collective Procrastination", June 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341671
 - "Who Disciplines the Leader? Leadership as Exposure ", June 22, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341546
@@ -65,6 +60,13 @@ author = "Hugo Authors"
 - "When Government Misleads US: Sending Misinformation as Protectionist Devices", Kwansei Gakuin University Discussion Paper Series, No. 75, August 2011. [Link PDF] (Co-authored with Keisaku Higashida.)
 - "Policy and Product Differentiations Encourage International Transfer of Environmental Technologies", MPRA Paper No. 4777, posted 08. September 2007. R&R
 - "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: http://www.ssrn.com/abstract=1009425
+
+#### <i class="fas fa-check-square"></i> Published Papers (Others)
+
+- Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, forthcoming, Springer. [[LINK](https://link.springer.com/book/10.1007/978-4-431-55127-0)]
+- "Political Economy Model of Strategic Environmental Policies: A Survey of Some Recent Work" (in Japanese), Osaka Keidai Ronshu, 60, 225-239, 2010. [[LINK PDF](https://www.i-repository.net/il/user_contents/02/G0000031Repository/repository/keidaironshu_060_005_225-239.pdf)]
+- "Effects of Changes in Contribution Skills on the Voluntary Provision of Public Goods", Osaka Keidai Ronshu, 57, 119-126, 2006.
+- "The Theory on the Private Provision of Public Goods: A Survey" (in Japanese), Osaka Economic Papers, 52-2, 137-153, 2002.
 
 #### <i class="fas fa-chalkboard-teacher"></i> Academic Positions
 
