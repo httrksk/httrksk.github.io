@@ -5,6 +5,14 @@ math: true
 
 ### 研究業績 <i class="fas fa-folder-open"></i>
 
+#### <i class="fab fa-cloudsmith"></i> 研究領域
+
+- 応用ミクロ経済学 理論・実験
+  - 産業組織論: 寡占理論, 競争政策, 広告・宣伝, 合併と提携
+  - 組織の経済学: チーム生産, リーダーシップ
+  - 公共経済学: 公共財の私的供給, 広告規制
+  - 環境経済学: 環境と貿易, 環境政策の政治経済学 
+
 #### <i class="fas fa-check-square"></i> 論文 (査読付き・英文)
 
 1. "Procrastination Traps and Endogenous Leadership in Teams", Economics Letters, forthcoming. [[LINK](https://doi.org/10.1016/j.econlet.2026.113120)]
