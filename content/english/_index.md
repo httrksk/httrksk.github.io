@@ -40,6 +40,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Working Papers
 
+- "The Sharing Trap: Duplicate Work and Coordination in Teams", July 20, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342325
 - "The Finisher's Paradox: Handoff Quality in Deadline-Constrained Teams", July 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342018
 - "The Desire to Be Missed: Irreplaceability and Leadership in Teams", July 8, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341791
 - "Self-Starters Are Leaders: Present-Bias Asymmetry and Collective Procrastination", June 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341671
