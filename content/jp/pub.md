@@ -60,7 +60,7 @@ math: true
 - "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: http://www.ssrn.com/abstract=1009425
 
 #### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿・分担執筆など）
-- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論週, 61(1), 1-25, 2026.
+- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論集, 61(1), 1-25, 2026.
 - 「グリーンウォッシュと消費者反応―サーベイ実験からの洞察」, 東田啓作 編『グリーンウォッシュの経済分析』中央経済社，2026年．（東田啓作氏との共著）
 - 「リーダーシップと報酬分配: 大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025.[[Link PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02039832&elmid=Body&fname=tf02039832-19-43.pdf&loginflg=on&once=true)]
 - 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
