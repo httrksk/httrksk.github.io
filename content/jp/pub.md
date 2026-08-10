@@ -38,13 +38,14 @@ math: true
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
+- "Enforceability Reverses the Effect of Bargaining Power on Team Performance", August 10, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342595
 - "The Sharing Trap: Duplicate Work and Coordination in Teams", July 20, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342325
 - "The Finisher's Paradox: Handoff Quality in Deadline-Constrained Teams", July 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342018
 - "The Desire to Be Missed: Irreplaceability and Leadership in Teams", July 8, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341791
 - "Self-Starters Are Leaders: Present-Bias Asymmetry and Collective Procrastination", June 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341671
 - "Who Disciplines the Leader? Leadership as Exposure ", June 22, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341546
 - "Diverse Hands, Aligned Hearts: Ability and Preference Diversity in Team Production", June 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341465
-- "Profit-Increasing Entry with Endogenous Banking", February 06, 2026. Available at SSRN: https://ssrn.com/abstract=6157146 
+- "Profit-Increasing Entry with Endogenous Loan Pricing", July 23, 2026. Available at SSRN: https://ssrn.com/abstract=6157146 
 - "Endogenous Finance and Policy Interactions: Monetary Policy, Financial Regulation, and Competition Policy", January 25, 2026, Available at SSRN: https://ssrn.com/abstract=6131148 
 - "The Burden of Excellence: Endogenous Efficiency Paradoxes under Coopetition", RIETI Discussion Paper Series 25-E-126, December 2025. Available at RIETI: https://www.rieti.go.jp/jp/publications/dp/25e126.pdf (Co-authored with Takeshi Yoshikawa.) [[LINK](https://www.rieti.go.jp/en/publications/summary/25120022.html)]
 - "Closing the Psychological Distance: Effect of Social Interaction on Team Performance", April 4, 2025, Available at SSRN: https://papers.ssrn.com/abstract=5204747 (Co-authored with Mai Yamada.) [[LINK](https://papers.ssrn.com/abstract=5204747)]

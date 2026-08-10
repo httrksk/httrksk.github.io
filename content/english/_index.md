@@ -40,6 +40,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Working Papers
 
+- "Enforceability Reverses the Effect of Bargaining Power on Team Performance", August 10, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342595
 - "The Sharing Trap: Duplicate Work and Coordination in Teams", July 20, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342325
 - "The Finisher's Paradox: Handoff Quality in Deadline-Constrained Teams", July 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342018
 - "The Desire to Be Missed: Irreplaceability and Leadership in Teams", July 8, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/341791
