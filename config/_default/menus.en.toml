@@ -1,5 +1,17 @@
   [[main]]
+  name = "BLOG"
+  identifier = "blog"
+  weight = 100
+  url = "/blog/"
+
+  [[main]]
   name = "Home"
   identifier = "home"
-  weight = 100
+  weight = 200
   url = "/"
+
+  [[main]]
+  name = "Archive"
+  identifier = "archive"
+  weight = 300
+  url = "/post/"
