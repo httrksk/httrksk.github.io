@@ -99,6 +99,10 @@ math: true
 
 #### <i class="fas fa-comment"></i> 学会・研究会 報告
 
+- 2026年8月26日: EARIE 2026 (European Association for Research in Industrial Economics, 於 University of Mannheim, Germany) にて、論文 "Endogenous Loan Pricing and Policy Interactions: Monetary Policy, Financial Regulation, and Competition Policy" 報告
+
+- 2026年4月16日: Misakicho Economics Workshop (於 日本大学) にて、論文 "Endogenous Loan Pricing and Policy Interactions: Monetary Policy, Financial Regulation, and Competition Policy" 報告
+
 - 2026年4月2日: 18th Western Economic Association International International (WEAI 2026, 於 Chulalongkorn University, Thai) にて、論文 "The Burden of Excellence: Endogenous Eﬃciency Paradoxes under Coopetition" 報告
 
 - 2026年3月19日: 28th Colloquium on Personnel Economics (COPE 2026, 於 Erasmus University, Netherland) にて、論文 "Closing the Psychological Distance: Effect of Social Interaction on Team Performance" 報告
