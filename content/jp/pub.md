@@ -38,6 +38,7 @@ math: true
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
+- "Profit-Increasing Entry and the Low-Entry Trap under Coopetition", September 6, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/343408 (Co-authored with Takeshi Yoshikawa.)
 - "Performance Attribution, Knowledge Transfer, and Team Formation", August 21, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/343009
 - "Working Harder, Playing Safer: Mutual Concern and Risky Experimentation in Teams", August 10, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342603
 - "Enforceability Reverses the Effect of Bargaining Power on Team Performance", August 10, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/342595
