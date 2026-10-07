@@ -66,9 +66,9 @@ math: true
 - "Strategic Delegation of Environmental Policy Making: Corrections and Comments", August 24, 2007. Available at SSRN: http://www.ssrn.com/abstract=1009425
 
 #### <i class="fas fa-check-square"></i> その他（紀要・雑誌寄稿・分担執筆など）
-- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論集, 61(1), 1-25, 2026.
+- 「リーダーはなぜリスクを避けるのか: 意思決定権限と責任帰属のビネット実験」, 青山経営論集, 61(1), 1-25, 2026. [[LINK PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02143566&elmid=Body&fname=tf02143566-1-25.pdf&loginflg=on&once=true)]
 - 「グリーンウォッシュと消費者反応―サーベイ実験からの洞察」, 東田啓作 編『グリーンウォッシュの経済分析』中央経済社，2026年．（東田啓作氏との共著）
-- 「リーダーシップと報酬分配: 大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025.[[Link PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02039832&elmid=Body&fname=tf02039832-19-43.pdf&loginflg=on&once=true)]
+- 「リーダーシップと報酬分配: 大学生を対象としたサーベイ実験からの洞察」, 青山経営論集, 60(1), 19-43, 2025. [[Link PDF](https://opac.agulin.aoyama.ac.jp/iwjs0011opc/bdyview.do?bodyid=TF02039832&elmid=Body&fname=tf02039832-19-43.pdf&loginflg=on&once=true)]
 - 『経済論文の読み方: 学術論文を読もう』 [経済セミナー 2022年 8・9月号](https://www.nippyo.co.jp/shop/magazine/8844.html), 日本評論社, 22-27.
 - Comment on "Budgets under Delegation" by Terai, K. and Glazer, A. In Ihori, T. and Terai, K. Eds, The Political Economy of Fiscal Consolidation in Japan, Springer. 2015. [[LINK](https://www.springer.com/gp/book/9784431551263)] 
 - 「戦略的環境政策の政治経済学的アプローチ」, 大阪経大論集, 60, 225-239, 2010. [[Link PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.i-repository.net%2Fil%2Fuser_contents%2F02%2FG0000031Repository%2Frepository%2Fkeidaironshu_060_005_225-239.pdf&sa=D&sntz=1&usg=AFQjCNFFD6PFnm05Rvk1SWZB0FQG2l1EGw)]
