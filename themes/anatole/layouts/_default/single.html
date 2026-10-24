@@ -30,7 +30,7 @@
               {{ end }}</span
             >
             <em class="fas fa-stopwatch"></em>
-            <span class="reading-time">{{ i18n "reading_time" .ReadingTime }}</span>
+<span class="reading-time">{{ if eq .Language.Lang "jp" }}{{ $jp := len (findRE `[\p{Han}\p{Hiragana}\p{Katakana}]` .Plain) }}{{ $latin := len (findRE `[A-Za-z0-9]+` .Plain) }}{{ $min := div (add (add $jp (mul $latin 3)) 499) 500 }}{{ if lt $min 1 }}{{ $min = 1 }}{{ end }}{{ i18n "reading_time" $min }}{{ else }}{{ i18n "reading_time" .ReadingTime }}{{ end }}</span>
           </div>
 
         {{ end }}
