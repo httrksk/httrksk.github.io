@@ -17,7 +17,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Published Papers (Refereed)
 
-1. "Profit Sharing versus Uniform Pricing in Asymmetric Collusion", Journal of Industry, Competition and Trade, Forthcoming. [[LINK](https://link.springer.com/article/10.1007/s10842-026-00485-w)]
+1. "Profit Sharing versus Uniform Pricing in Asymmetric Collusion", Journal of Industry, Competition and Trade, 26, Article 25, 2026. [[LINK](https://link.springer.com/article/10.1007/s10842-026-00485-w)]
 2. "Procrastination Traps and Endogenous Leadership in Teams", Economics Letters, 268, 113120, 2026. [[LINK](https://doi.org/10.1016/j.econlet.2026.113120)]
 3. "A Paradox of Coalition Building in Public Good Provision", Economic Modeling, 135, 106722, 2024. (Co-authored with Wolfgang Buchholz.) [[LINK](https://doi.org/10.1016/j.econmod.2024.106722)]
 4. "Who should be Regulated: Genuine Producers or Third Parties?", Journal of Economics, 138(3), 249-286, 2023. (Co-authored with Keisaku Higashida.) [[LINK](https://doi.org/10.1007/s00712-022-00808-5)]
