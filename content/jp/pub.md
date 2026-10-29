@@ -39,6 +39,7 @@ math: true
 
 #### <i class="fas fa-check-square"></i> ワーキング・ペーパー
 
+- "Who Creates Demand? Retail Entry and Distribution Networks", October 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344260 (Co-authored with Takeshi Yoshikawa.)
 - "When Leaders Step Back: Productive Restraint, Strategic Absence, and Peer Collaboration", October 7, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344080
 - "The Hidden Value of Human Followers", September 29, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344041
 - "Strategic Self-Handicapping to Induce Rival Mergers", September 15, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/343613 (Co-authored with Wolfgang Buchholz.)
