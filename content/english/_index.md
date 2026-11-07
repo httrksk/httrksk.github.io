@@ -41,6 +41,7 @@ author = "Hugo Authors"
 
 #### <i class="fas fa-check-square"></i> Working Papers
 
+- "Helping as Relationship Building: Organizational Design and Team Performance", November 5, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344455 (Co-authored with Mai Yamada.)
 - "Who Creates Demand? Retail Entry and Distribution Networks", October 26, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344260 (Co-authored with Takeshi Yoshikawa.)
 - "When Leaders Step Back: Productive Restraint, Strategic Absence, and Peer Collaboration", October 7, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344080
 - "The Hidden Value of Human Followers", September 29, 2026. ZBW - Leibniz Information Centre for Economics, Kiel, Hamburg: https://hdl.handle.net/10419/344041
